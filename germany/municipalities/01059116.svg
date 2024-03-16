@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1113" height="1340" viewBox="0 0 1113 1340" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Grosssolt-Wappen</title>
+<defs><path id="Main" d="M-70,150H-150V70H150V230H230V150H70V-150H150V-70H-150V-150H-70Z"/></defs>
+<g transform="translate(0,1340)scale(1,-1)" fill="none" stroke="#000000">
+<path fill="#008000" stroke-width="9" d="M4.5,1335.5V530C4.5,280,230,4.5,556.5,4.5C883,4.5,1108.5,280,1108.5,530V1335.5Z"/>
+<g transform="translate(556.5,545)scale(2.06,2.06)rotate(45)" stroke-width="30.767">
+<use xlink:href="#Main"/><use xlink:href="#Main" stroke-width="23" stroke="#ffff00"/>
+<g id="Xng"><path d="M54,70H86"/><path stroke-width="23" stroke="#ffff00" d="M48,70H92"/></g>
+<use xlink:href="#Xng" transform="rotate(90)"/><use xlink:href="#Xng" transform="rotate(180)"/>
+<use xlink:href="#Xng" transform="rotate(270)"/>
+<path d="M134,150H166"/><path stroke-width="23" stroke="#ffff00" d="M128,150H172"/></g></g></svg>
