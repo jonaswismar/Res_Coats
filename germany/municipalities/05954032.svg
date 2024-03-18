@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   width="626"
+   height="836"
+   version="1.0"
+   sodipodi:docname="Wappen_der_Stadt_Wetter_(Ruhr).svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>1971-01-21</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Stadt Wetter (Ruhr)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:title>Wappen der Stadt Wetter (Ruhr)</dc:title>
+        <dc:identifier>http://commons.wikimedia.org/wiki/Image:Wappen_der_Stadt_Wetter_(Ruhr).svg</dc:identifier>
+        <dc:language>DE</dc:language>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>ludger1961</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Stadt Wetter (Ruhr)</dc:title>
+          </cc:Agent>
+        </dc:rights>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective9" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="709"
+     inkscape:window-width="967"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="313.02559"
+     inkscape:cy="375.31014"
+     inkscape:window-x="22"
+     inkscape:window-y="29"
+     inkscape:current-layer="svg2"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <path
+     style="fill:#fff200;fill-opacity:1;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 3,3 L 33,263 L 33,573.90625 C 33,716.92445 158.43999,833.00002 313,833 C 467.56,833 593.00002,716.92447 593,573.90625 L 593,263 L 623,3 L 3,3 z"
+     id="wappenschild" />
+  <rect
+     style="fill:#ffffff;fill-opacity:0.94117647;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="schachbalken_silber"
+     width="560"
+     height="207"
+     x="33"
+     y="263" />
+  <rect
+     style="fill:#ed1c24;fill-opacity:1;stroke:#000000;stroke-width:6;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3294"
+     width="93.333328"
+     height="69"
+     x="33"
+     y="263" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#rect3294"
+     id="use3296"
+     transform="translate(186.66666,0)"
+     width="620"
+     height="840" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#rect3294"
+     id="use3302"
+     transform="translate(373.33333,0)"
+     width="620"
+     height="840" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#rect3294"
+     id="use3304"
+     transform="translate(93.33333,69)"
+     width="620"
+     height="840" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#use3296"
+     id="use3306"
+     transform="translate(93.33333,69)"
+     width="620"
+     height="840" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#use3302"
+     id="use3308"
+     transform="translate(93.33333,69)"
+     width="620"
+     height="840" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#use3304"
+     id="use3310"
+     transform="translate(-93.333318,69)"
+     width="620"
+     height="840" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#use3306"
+     id="use3312"
+     transform="translate(-93.333318,69)"
+     width="620"
+     height="840" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#use3308"
+     id="use3314"
+     transform="translate(-93.333318,69)"
+     width="620"
+     height="840" />
+  <path
+     style="fill:#ed1c24;fill-opacity:1;stroke:#000000;stroke-width:5.98658943;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1"
+     d="M 313.00519,809.73712 C 279.39404,763.47 264.96998,641.41251 313.00519,624.14803 C 355.18323,646.03472 346.6777,761.51105 313.00519,809.73712 z"
+     id="dreiblatt_blatt1"
+     sodipodi:nodetypes="ccc" />
+  <path
+     sodipodi:nodetypes="ccc"
+     id="dreiblatt_blatt2"
+     d="M 499.75411,515.06399 C 469.62627,566.14827 359.44372,635.47653 323.15165,601.1481 C 326.53703,553.82196 439.93896,507.7556 499.75411,515.06399 z"
+     style="fill:#ed1c24;fill-opacity:1;stroke:#000000;stroke-width:6.07718039;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1" />
+  <path
+     style="fill:#ed1c24;fill-opacity:1;stroke:#000000;stroke-width:6.04023457;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1"
+     d="M 131.53024,508.21552 C 159.41303,560.81899 264.91998,634.45074 301.39184,600.93046 C 299.50988,552.99033 190.15934,502.76428 131.53024,508.21552 z"
+     id="dreiblatt_blatt3"
+     sodipodi:nodetypes="ccc" />
+  <path
+     sodipodi:type="star"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path3335"
+     sodipodi:sides="3"
+     sodipodi:cx="432"
+     sodipodi:cy="543"
+     sodipodi:r1="5.572073"
+     sodipodi:r2="139.30183"
+     sodipodi:arg1="3.0047717"
+     sodipodi:arg2="4.0519692"
+     inkscape:flatsided="false"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="M 426.48,543.76 L 346.54551,432.9885 L 434.10182,537.83954 L 570,523.99999 L 435.41818,547.40046 L 379.45449,672.01151 L 426.48,543.76 z"
+     transform="matrix(0.7206611,-0.2862316,0.2816318,0.7324311,-152.01857,338.91219)" />
+  <path
+     sodipodi:type="arc"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="butzen"
+     sodipodi:cx="292"
+     sodipodi:cy="585"
+     sodipodi:rx="32"
+     sodipodi:ry="30"
+     d="M 324,585 A 32,30 0 1 1 260,585 A 32,30 0 1 1 324,585 z"
+     transform="matrix(0.78125,0,0,0.8333333,84.875,122.50006)" />
+  <path
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1"
+     d="M 44.5,35 L 162.75,35 L 178.17188,135 L 245.01562,135 L 256.4375,35 L 374,35 L 386.5625,135 L 456.125,135 L 466.6875,35 L 581.5,35 L 566,233 L 64,233 L 44.5,35 z"
+     id="w"
+     sodipodi:nodetypes="ccccccccccccc" />
+</svg>

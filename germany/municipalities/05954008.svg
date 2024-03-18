@@ -1,0 +1,25 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="560" width="506" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <rect height="142.53" width="494.6" y="7.1119" x="5.8741" fill="#f4f0e8"/>
+ <rect height="70" width="70" y="79.009" x="429.84" fill="#dc281e"/>
+ <rect height="70" width="70" y="79.009" x="6.5066" fill="#dc281e"/>
+ <path style="color:#000000;enable-background:accumulate;" d="m5.9692,149.01,491.84,0.744,1.48,215.52c-18.24,230.8-445.92,274.08-494.08,2.32z" stroke-miterlimit="4" fill="#ffd200"/>
+ <rect height="70" width="70" y="6.6808" x="218.71" fill="#dc281e"/>
+ <rect height="70" width="70" y="78.478" x="147.97" fill="#dc281e"/>
+ <rect height="70" width="70" y="7.7444" x="77.772" fill="#dc281e"/>
+ <rect height="70" width="70" y="78.478" x="288.91" fill="#dc281e"/>
+ <rect height="70" width="70" y="8.2762" x="359.11" fill="#dc281e"/>
+ <path stroke-linejoin="miter" style="enable-background:accumulate;color:#000000;" d="M6,150,501,150m-495-72,493,0m-69.671-69.929,0,141.48m-70.45-141.48v141.48m-70.272-141.48,0,141.48m-70.27-141.92v141.48m-70.35-140.95v141.48m-70.189-142.01v141.48" stroke-dashoffset="0" stroke="#000" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="none"/>
+ <path stroke-linejoin="round" d="m203,150c-6,11-15.598,17.605-15.598,37.501,0,30,20,30,20,60s-19.247,30.753-20,60c0,30,20,30,20,60s-19.474,30.526-20,60c0,30,20,30,20,60s-19.376,30.889-19.376,60.889c47.761,8.1028,76.111,9.1028,119.19,3.3077,0-30,20.188-34.197,20.188-64.197s-20-30-20-60,20-30,20-60-20-30-20-60,20-30,20-60c0.86818-28.791-20-30-20-60,0-19.761,8.6744-26.625,14.598-37.501z" stroke="#000" stroke-linecap="round" stroke-width="3" fill="#0039a6"/>
+ <path style="enable-background:accumulate;color:#000000;" d="m251.92,248.21,214.53,203.43c-24.001,31.488-34.559,45.328-73.44,68.016l-140.38-134.43-134.09,139.68c-40.629-22.66-53.523-34.22-76.291-66.36z" stroke="#000" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="#dc281e"/>
+ <path d="m5,335c-0.39338-108.71-0.06094-220.29,0-329h495c-0.44731,111.21,1.6726,217.81,0,329,0,140-115,220-245.26,220.5-139.74-0.5-249.74-80.5-249.74-220.5z" stroke="#000" stroke-dasharray="none" stroke-miterlimit="4" stroke-width="5" fill="none"/>
+</svg>
