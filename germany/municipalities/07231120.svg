@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 500 580" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<pattern id="p" width="250" height="250" patternUnits="userSpaceOnUse">
+<g stroke="#000">
+<path d="m0,0h250v250H0z" fill="#d22"/>
+<path d="m0,125v125h125V0h125v125z" fill="#fff"/>
+</g>
+</pattern>
+</defs>
+<path d="m1.5 1.5v327a248.5 248.5 0 1 0 497 0v-327z" fill="url(#p)" stroke="#000" stroke-width="3"/>
+</svg>

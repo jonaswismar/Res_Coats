@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="CoA Maring-Noviand.svg"
+   id="svg2130"
+   version="1.1"
+   viewBox="0 0 476.4052 576.57489"
+   height="576.57489"
+   width="476.40521"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2124" />
+  <sodipodi:namedview
+     inkscape:pagecheckerboard="false"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     lock-margins="true"
+     units="px"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-11"
+     inkscape:window-x="-11"
+     inkscape:window-height="1506"
+     inkscape:window-width="2560"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="288"
+     inkscape:cx="238.33333"
+     inkscape:zoom="1.5"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#333333"
+     id="base"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-global="false"
+     inkscape:lockguides="false"
+     guidecolor="#00ffff"
+     guideopacity="0.49803922"
+     inkscape:snap-midpoints="true" />
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="maring-noviand"
+     transform="translate(-76,-16.091797)">
+    <g
+       id="g7191"
+       inkscape:label="coa">
+      <g
+         id="g6929"
+         inkscape:label="coa-0">
+        <path
+           style="display:inline;opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:6;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 79,19.09188 v 349.57479 c 0,105.4536 100.89433,221 235.20261,221 134.30828,0 235.20261,-115.5464 235.20261,-221 V 19.091881 Z"
+           id="path1089"
+           sodipodi:nodetypes="cczccc"
+           inkscape:label="coa-a" />
+        <path
+           style="opacity:1;fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 297.92765,589.09768 c 5.36626,0.37648 10.79277,0.56899 16.27496,0.56899 134.30828,0 235.20261,-115.5464 235.20261,-221 V 19.091881 l -251.47757,-1e-6 z"
+           id="path5278"
+           sodipodi:nodetypes="cscccc"
+           inkscape:label="coa-s" />
+      </g>
+      <path
+         id="rect5500"
+         style="opacity:1;fill:#ed1c24;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 143.66602,19.091797 V 166 H 79 v 57 h 64.66602 v 293.02148 c 19.51554,20.13293 42.80021,37.3885 69,50.12696 V 223 h 85.26171 V 166 H 212.66602 V 19.091797 Z"
+         inkscape:label="cross" />
+      <g
+         id="g6309"
+         inkscape:label="annulets"
+         style="fill:none;stroke:none">
+        <circle
+           style="opacity:1;fill:none;fill-rule:evenodd;stroke:#ffdd00;stroke-width:11;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path5952"
+           cx="438.33331"
+           cy="216.33334"
+           r="78"
+           inkscape:label="annulet-t" />
+        <circle
+           style="opacity:1;fill:none;fill-rule:evenodd;stroke:#ffdd00;stroke-width:11;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle6304"
+           cx="438.33331"
+           cy="345.33334"
+           r="78"
+           inkscape:label="annulet-b" />
+      </g>
+      <path
+         style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 79,19.09188 v 349.57479 c 0,105.4536 100.89433,221 235.20261,221 134.30828,0 235.20261,-115.5464 235.20261,-221 V 19.091881 Z"
+         id="path6335"
+         sodipodi:nodetypes="cczccc"
+         inkscape:label="coat-f" />
+    </g>
+  </g>
+</svg>

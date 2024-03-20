@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   width="660"
+   height="760"
+   version="1.0"
+   sodipodi:docname="Wappen_der_Gemeinde_Winkel_(Eifel).svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     inkscape:window-height="712"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="330"
+     inkscape:cy="380"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <path
+     style="opacity:1;fill:#da121a;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.01703548;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 330.00001,754.9858 C 510.04215,754.9858 654.98581,610.10091 654.98581,430.13177 L 654.98581,255.67318 L 330.00001,255.67318 L 5.0141959,255.67318 L 5.0141959,430.13177 C 5.0141959,610.10091 149.95787,754.9858 330.00001,754.9858 z"
+     id="feld"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.01703547999999970;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 654.98581,255.67318 L 654.98581,5.0141959 L 330.00001,5.0141959 L 5.0141959,5.0141959 L 5.0141959,255.67318 L 654.98581,255.67318 z"
+     id="schildhaupt"
+     sodipodi:nodetypes="cccccc" />
+  <path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.01999998;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 330,273.40625 L 45.75,557.6875 L 129.75,641.6875 L 330,441.40625 L 530.25,641.6875 L 614.25,557.6875 L 330,273.40625 z"
+     id="winkel" />
+  <g
+     id="zange"
+     transform="matrix(2.0060852,0,0,2.0052715,-27.095339,-1.043794)">
+    <path
+       id="zange1"
+       d="M 45.498483,75.493428 L 117.7462,76.5 L 159.75,30.261173 L 309.5,34.021031 L 309.5,47.014459 L 168.25,51.502629 L 126.49545,94.997371 L 50.001517,89.989485 L 45.498483,75.493428 z"
+       style="opacity:1;fill:#da121a;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       id="zange2"
+       d="M 44.751517,55.747371 L 116.00531,55.001314 L 161.49393,100.74672 L 309.00152,89.259201 L 309.99848,75.513144 L 168.74393,80.001314 L 129.25,37.255258 L 50.75,41.25 L 44.751517,55.747371 z"
+       style="opacity:1;fill:#da121a;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       transform="matrix(0.7906977,0,0,0.7727273,39.788926,20.718842)"
+       d="M 140.25,59 A 10.75,11 0 1 1 118.75,59 A 10.75,11 0 1 1 140.25,59 z"
+       sodipodi:ry="11"
+       sodipodi:rx="10.75"
+       sodipodi:cy="59"
+       sodipodi:cx="129.5"
+       id="schraube"
+       style="opacity:1;fill:#da121a;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.8379817;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+  </g>
+  <path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.01999998;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 330,543.99 C 288.6,543.99 255,577.59 255,618.99 C 255,660.39 288.6,693.99 330,693.99 C 371.4,693.99 405,660.39 405,618.99 C 405,577.59 371.4,543.99 330,543.99 z M 330,563.99 C 360.36,563.99 385,588.63 385,618.99 C 385,649.35 360.36,673.99 330,673.99 C 299.64,673.99 275,649.35 275,618.99 C 275,588.63 299.64,563.99 330,563.99 z"
+     id="ring0"
+     inkscape:tile-cx="330"
+     inkscape:tile-cy="618.99"
+     inkscape:tile-w="150"
+     inkscape:tile-h="150"
+     inkscape:tile-x0="255"
+     inkscape:tile-y0="543.99" />
+  <path
+     inkscape:tile-y0="543.99"
+     inkscape:tile-x0="255"
+     id="ring1"
+     d="M 112,283.99 C 70.6,283.99 37,317.59 37,358.99 C 37,400.39 70.6,433.99 112,433.99 C 153.4,433.99 187,400.39 187,358.99 C 187,317.59 153.4,283.99 112,283.99 z M 112,303.99 C 142.36,303.99 167,328.63 167,358.99 C 167,389.35 142.36,413.99 112,413.99 C 81.64,413.99 57,389.35 57,358.99 C 57,328.63 81.64,303.99 112,303.99 z"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.01999998;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     inkscape:tile-y0="543.99"
+     inkscape:tile-x0="255"
+     id="ring2"
+     d="M 548,283.99 C 506.6,283.99 473,317.59 473,358.99 C 473,400.39 506.6,433.99 548,433.99 C 589.4,433.99 623,400.39 623,358.99 C 623,317.59 589.4,283.99 548,283.99 z M 548,303.99 C 578.36,303.99 603,328.63 603,358.99 C 603,389.35 578.36,413.99 548,413.99 C 517.64,413.99 493,389.35 493,358.99 C 493,328.63 517.64,303.99 548,303.99 z"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.01999998;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10.02839184;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 330.00001,754.9858 C 510.04215,754.9858 654.98581,610.10091 654.98581,430.13177 L 654.98581,5.0141959 L 330.00001,5.0141959 L 5.0141959,5.0141959 L 5.0141959,430.13177 C 5.0141959,610.10091 149.95787,754.9858 330.00001,754.9858 z"
+     id="schildrahmen"
+     sodipodi:nodetypes="ccccccc" />
+</svg>

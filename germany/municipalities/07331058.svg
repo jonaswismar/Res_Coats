@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="183.52728mm"
+   height="209.34358mm"
+   viewBox="0 0 650.29352 741.76859"
+   id="svg22724"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="DEU Saulheim COA.svg">
+  <defs
+     id="defs22726" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.72798985"
+     inkscape:cx="325.14676"
+     inkscape:cy="370.88431"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata22729">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(29.968104,-20.2434)">
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:11;stroke-opacity:1;fill-opacity:1"
+       inkscape:connector-curvature="0"
+       d="M 614.65919,25.7434 602.25177,442.36781 C 595.38501,617.61758 459.71211,756.41388 295.1787,756.51198 130.79327,756.29708 -4.930451,617.45078 -11.894461,442.36781 l -12.40741,-416.62441 319.473161,0 z"
+       id="path10563-0-5-0" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 152.37348,106.31957 a 113.64754,113.64754 0 0 0 -91.300781,46.19141 76.828217,76.828217 0 0 1 36.61523,-9.3711 76.828217,76.828217 0 0 1 76.828131,76.82813 76.828217,76.828217 0 0 1 -76.828131,76.82812 76.828217,76.828217 0 0 1 -36.54101,-9.26562 113.64754,113.64754 0 0 0 91.226561,46.08398 A 113.64754,113.64754 0 0 0 266.01996,219.96801 113.64754,113.64754 0 0 0 152.37348,106.31957 Z m 263.26367,0 a 113.64754,113.64754 0 0 0 -91.30078,46.19141 76.828217,76.828217 0 0 1 36.61523,-9.3711 76.828217,76.828217 0 0 1 76.82813,76.82813 76.828217,76.828217 0 0 1 -76.82813,76.82812 76.828217,76.828217 0 0 1 -36.54101,-9.26562 113.64754,113.64754 0 0 0 91.22656,46.08398 A 113.64754,113.64754 0 0 0 529.28363,219.96801 113.64754,113.64754 0 0 0 415.63715,106.31957 Z M 284.00434,416.3391 a 113.64754,113.64754 0 0 0 -91.29883,46.19141 76.828217,76.828217 0 0 1 36.61328,-9.37109 76.828217,76.828217 0 0 1 76.83008,76.82812 76.828217,76.828217 0 0 1 -76.83008,76.82813 76.828217,76.828217 0 0 1 -36.53906,-9.26563 113.64754,113.64754 0 0 0 91.22461,46.08398 A 113.64754,113.64754 0 0 0 397.65278,529.98754 113.64754,113.64754 0 0 0 284.00434,416.3391 Z"
+       id="path6812"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

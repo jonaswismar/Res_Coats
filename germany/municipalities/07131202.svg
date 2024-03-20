@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="492" width="412" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g stroke="#000" stroke-width="5">
+<g fill="#fd1">
+<path id="e" d="m6 6v280a200 200 0 0 0 400 0v-280z" stroke-width="10" fill=""/>
+</g>
+<path d="m206 486c26 0 52-5 76-15 25-10 47-25 65-44 19-18 34-40 44-65 10-24 15-50 15-76v-59h-400v-221h200z" fill="#d21"/>
+<path d="m224 333 25 55 50-110 50 110 25-55-25-55-50 110-50-110z" fill="#fff"/>
+<g id="f">
+<g id="a">
+<circle id="c" cx="304" cy="187" r="14" fill="#d21"/>
+<g id="d">
+<use xlink:href="#c" x="-20" y="-35"/>
+<use xlink:href="#c" x="20" y="-35"/>
+</g>
+</g>
+<use xlink:href="#a" x="0" y="-70"/>
+<use xlink:href="#a" x="-40" y="-70"/>
+<use xlink:href="#a" x="40" y="-70"/>
+<use xlink:href="#d" x="-40" y="-109"/>
+<use xlink:href="#d" x="40" y="-109"/>
+</g>
+<use xlink:href="#f" x="-195" y="225"/>
+<path id="b" d="m92 122c-22.44-1.8-32 23.6-16.41 45.2 8.24 11.4 19.33 20.6 31.4 27.8 12.1-7.2 23.2-16.4 31.4-27.8 15.6-21.6 6.1-47-16.4-45.2-5.5 0.4-11.2 2.9-15 7-3.8-4.1-9.49-6.6-14.99-7z" fill="#fff"/>
+<use xlink:href="#b" x="45" y="-74"/>
+<use xlink:href="#b"  x="-45" y="-74"/>
+<use xlink:href="#e" fill="none"/>
+</g>
+</svg>

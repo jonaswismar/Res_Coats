@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="404" width="338" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g stroke="#000" stroke-width="6" stroke-linecap="round">
+<path d="m3.454 3h331.2v223.7h-331.2z" fill="#16b"/>
+<path d="m169 398c91.4 0 165.7-74.1 165.7-165.5v-0.3l-331.2 0.3c0 91.4 74.14 165.5 165.5 165.5z" fill="#fd1"/>
+</g>
+<path d="m3 209.5h331.6v31.82h-331.6z" fill="#16b"/>
+<use xlink:href="#b" transform="matrix(-1 0 0 1 338 0)"/>
+<g id="b">
+<g fill="#fd1">
+<g stroke="#000">
+<path stroke-width="3" d="m305.8 96.21v28.79l-18.7 11v8.2l25.9-15.2v-32.79"/>
+<path stroke-width="5" d="m168 241.3h119.7l-0.4-131.3-71.8 34.8v-44.8h4.6l-0.1-6h5v-8h-57"/>
+<rect rx="3" ry="3.5" height="7" width="77" y="178" x="215" stroke-width="3"/>
+</g>
+<path d="m225 86.52-56-67.52-2 67.52z"/>
+</g>
+<g stroke="#000">
+<path stroke-width="5" d="m215.3 241.3v-96.5" fill="none"/>
+<g fill="#fd1">
+<g stroke-width="3">
+<path d="m222 87s32.4-5-2-38c-25-24-51-29.57-51-29.57"/>
+<g stroke-miterlimit="10">
+<path d="m176 29s24.9 29.31 28 41c3.9 14.5-10.8 13.1-14 4-4-11.4-14-45-14-45z"/>
+<path d="m186 31c5.9 3.71 23.5 13.65 33 25.8 4 5.11 9 11.06 10 17.2 1.4 11.03-9.3 6.34-12 1-6.3-12.68-21-34-31-44z"/>
+</g>
+</g>
+<path stroke-width="2" stroke-linecap="round" d="m215.3 144.8 104.8-52.35-21.6-28.02-83.2 48.17z"/>
+</g>
+<path stroke-width="4" stroke-linecap="round" d="m215.3 144.8 105.7-51.8-22.5-28.57-83.2 48.17z" fill="none"/>
+<path stroke-width="2" d="m300.3 65v-23.96h-4v23.96" fill="#fd1"/>
+</g>
+<g stroke="#000" fill="none">
+<path stroke-width="2" d="m215.3 112.8 16.7 25.2m-7.1-30.6 17.8 26.3m-8-32 18.3 25.3m-7.2-31.33 18.2 25.33m-8.2-31.26 20 27.86m-10.6-34.51 19.9 27.91m-8.5-33.01 20 27.91m-9.5-34.54 20 27.91m1.4-21.59-93.2 53.42"/>
+<g stroke-width="3">
+<path d="m215.3 131.1 7.2 10"/>
+<path stroke-linecap="round" d="m275 134c-2.1 0-4 1.8-4 4v33h8v-33c0-2.2-1.9-4-4-4z" stroke-dashoffset="12.5"/>
+<path d="m287 118-72 35"/>
+</g>
+<g stroke-width="2">
+<g transform="matrix(-1 0 0 1 357.4 -11.51)">
+<path d="m83.07 252.8v-15.5"/>
+<path d="m70.36 237.3h71.74"/>
+<path d="m142.1 222.8h-71.74"/>
+<path d="m142.1 209.5h-71.74"/>
+<path d="m127.9 209.5v13.3m-21.8-13.3v13.3m-23.03 0v-13.3m34.83-12v12m-22.48-12v12"/>
+</g>
+<path d="m168.8 196.6v-11.4m0-12.2v-12m22.9 12v-12m-9.8 48.5v-12.9m0-23.6v12.2m9.8 11.4v-11.4m17 56.1v-17.2m0-14.6v-12.9m0-11.4v-12.2m6.6 0h-48.3m48.3 12.2h-48.3m48.3 11.4h-48.3m48.3 12.9h-23.6m23.6 14.6h-23.6"/>
+</g>
+</g>
+<use xlink:href="#d" transform="translate(30.3)"/>
+<g stroke="#000" stroke-width="2">
+<path stroke-linecap="round" d="m293 41.6a5 5 0 0 0 10 0 5 5 0 1 0 -10 0z" fill="#fd1"/>
+<path d="m303.4 80.59c2.9-1.72 3-4.23 2.1-5.61m-13.4 12.04c2.8-1.63 3-4.2 2.3-5.36m-12.9 11.46c2.7-1.69 2.8-4.11 2.1-5.27m-12.7 11.33c2.6-1.59 2.7-3.98 2.1-5.14m-12.1 10.96c2.3-1.2 2.7-4.1 2-5.26m-12.3 11.16c2.5-1.3 3.3-3.5 2.3-5.4m-13.3 11.7c2.5-1.4 3.4-3.9 1.9-6m-21.5 17.2c2.3-1.3 3.2-3.6 2.2-5.2m7.2-0.2c3.1-1.3 3.6-4.4 2.3-5.4" fill="none"/>
+</g>
+<use xlink:href="#a" transform="translate(-8.57 4.49)"/>
+<path id="a" transform="rotate(19.5)" d="m259.3 53.7c1.7-1.69 0.8-3.44-0.1-4.16l1-1.19c1.4 0.43 3.3 0.71 4.9-0.59"/>
+<use xlink:href="#a" transform="translate(10.1 -4.78)"/>
+<use xlink:href="#a" transform="translate(21.1 -10.3)"/>
+<use xlink:href="#a" transform="translate(32.5 -15.9)"/>
+<use xlink:href="#a" transform="translate(43 -21.1)"/>
+<use xlink:href="#a" transform="translate(53.4 -26.1)"/>
+<use xlink:href="#a" transform="translate(64.6 -31.64)"/>
+<use xlink:href="#a" transform="translate(75.97 -37.2)"/>
+<use xlink:href="#a" transform="translate(88.1 -43.1)"/>
+<g stroke="#000" fill="none">
+<g stroke-width="2">
+<path d="m227.7 124c-2.8 1.5-5.1 0.1-5.7-1.1"/>
+<path d="m237.5 118.4c-3 1.7-5 0.4-5.8-0.8"/>
+<path d="m247.4 112.7c-2.7 1.4-4.8 0.3-5.5-0.8"/>
+<path d="m258.4 106.5c-2.1 1.3-4.9 0.2-5.5-1"/>
+<path d="m268.7 100.5c-2.4 1.5-4.8 1.1-5.8-0.76"/>
+<path d="m278.8 94.71c-2.5 1.53-5.1 1.02-6.2-1.34"/>
+<path d="m300.1 82.39c-2.4 1.36-4.8 0.92-5.7-0.73"/>
+<path d="m289.6 88.44c-3.1 1.98-5.1 0.74-6-0.59"/>
+</g>
+<g stroke-width="3" stroke-linecap="round" stroke-dashoffset="12.5">
+<path d="m229 155c-2.1 0-4 1.8-4 4v12h8v-12c0-2.2-1.9-4-4-4z"/>
+<path d="m244.3 148c-2.1 0-4 1.8-4 4v19h8v-19c0-2.2-1.9-4-4-4z"/>
+<path d="m259.7 141c-2.1 0-4 1.8-4 4v26h8v-26c0-2.2-1.9-4-4-4z"/>
+</g>
+</g>
+</g>
+<g stroke="#000">
+<g fill="none">
+<g stroke-width="3">
+<path d="m5.721 263h327.2"/>
+<path d="m5.221 269.1h327.2"/>
+</g>
+<path stroke-width="2" d="m169 276v-6.9"/>
+</g>
+<g id="c" stroke="#000" fill="none">
+<path stroke-linejoin="round" stroke-linecap="round" d="m232.7 384v-107.6c-16.7 0-31.3 12.6-31.3 25.8v90.4" stroke-width="3"/>
+<path stroke-width="2" d="m215.8 280.2v-11.4m82.6 22.8v-22.5m-36.9 22.5v-22m18.9 43.2v-21.2m-18.9 44.2v-23m0 43.9v13.9m-29.8-57.8h81m-81 23h66.7v-23m-66.7 43.9h48.7v-20.9m-48.7 40.6h17.4m-17.1-84.8h91.9"/>
+</g>
+<g stroke-width="3">
+<path d="m169 28s-10.3 33.4-8.1 45c2.1 11 14.1 11 16.2 0 2.3-11.6-8.1-45-8.1-45z" fill="#fd1"/>
+<g fill="none">
+<path d="m110 87h117"/>
+<path d="m122.3 99h93"/>
+</g>
+</g>
+<path stroke-width="5" d="m332.7 255.5c1.1-4.9 1.925-20.99 1.925-23v-23h-37.3v31.8h-32.8v-31.8h-38.9v31.8h-33.8v-31.8h-46.5v31.8h-33.8v-31.8h-38.91v31.8h-32.84v-31.8h-36.23l0.004 23c0 7.8 0.516 15.5 1.476 23z" fill="#fd1"/>
+<g stroke-width="3" stroke-linecap="round">
+<path d="m122.4 105.3h93" fill="none"/>
+<g id="d" stroke-width="3" stroke="#000" stroke-linecap="round" fill="none">
+<path d="m184.2 142v-21.5c0-8.3-6.8-15.2-15.1-15.2s-15.2 6.9-15.2 15.2v21.5"/>
+<path d="m176.9 142v-21.5c0-4.4-3.5-7.9-7.8-7.9-4.4 0-7.9 3.5-7.9 7.9v21.5"/>
+</g>
+<rect rx="3" ry="3.5" height="17" width="102" y="143" x="118" fill="#fd1"/>
+<path d="m113.7 93h110.2" fill="none"/>
+<g fill="#fd1">
+<path stroke-width="2" d="m163 14a6 6 0 0 0 12 0 6 6 0 1 0 -12 0z"/>
+<rect rx="3" ry="3.47" height="7" width="106" y="148" x="116"/>
+</g>
+<path d="m201.3 394v-86.2c0-17.7-14.5-32.3-32.3-32.3-17.7 0-32.3 14.5-32.3 32.3v86.2" fill="none"/>
+<path d="m191.8 394.9v-87.2c0-12.5-10.2-22.7-22.8-22.7-12.5 0-22.8 10.2-22.8 22.7v87.2c15.2 2.1 30.4 2.2 45.6 0z" fill="#16b"/>
+</g>
+<use xlink:href="#c" transform="matrix(-1 0 0 1 338 0)"/>
+<g stroke-linecap="round" fill="#fd1">
+<path d="m169 18c2.1 0 4-1.91 4-4s-1.9-4-4-4"/>
+<path d="m298 44.6c1.6 0 3-1.43 3-3s-1.4-3-3-3"/>
+<path d="m40 44.6c1.57 0 3-1.43 3-3s-1.43-3-3-3"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192.21164mm"
+   height="209.34361mm"
+   viewBox="0 0 681.06486 741.7687"
+   id="svg12353"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="DEU Hövels COA.svg">
+  <defs
+     id="defs12355" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.72798974"
+     inkscape:cx="340.53244"
+     inkscape:cy="370.88436"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true" />
+  <metadata
+     id="metadata12358">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-29.526459,-27.139335)">
+    <path
+       style="fill:#ffd700;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:11;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       d="m 705.0463,32.639335 -3.398,416.624475 C 694.2333,624.51363 547.7284,763.30993 370.0589,763.40803 192.5492,763.19312 45.9895,624.34683 38.4695,449.26381 l -3.398,-416.624475 334.9794,0 z"
+       id="path10563-0-6"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 271.42413,88.555351 c -33.6571,26.255079 -67.87896,56.630859 -100.56836,89.265619 -32.6418,32.65653 -63.03988,66.85775 -89.333975,100.51172 l 65.513665,55.61133 c 19.7874,-24.99037 41.8072,-50.25698 65.3125,-74.94531 L 333.2503,381.94597 150.13116,562.02019 c 0,0 2.63588,10.43871 5.48828,14.89648 6.3748,9.96248 15.12736,18.71505 25.08985,25.08985 4.45781,2.85244 14.89648,5.48828 14.89648,5.48828 L 375.32843,424.73503 555.04719,607.4948 c 0,0 10.43877,-2.63584 14.89647,-5.48828 9.9625,-6.3748 18.71506,-15.12737 25.08984,-25.08985 2.8524,-4.45777 5.49024,-14.89843 5.49024,-14.89843 L 417.40655,381.94597 527.78741,269.69792 550.98077,292.89128 658.596,338.17253 613.31476,230.55925 586.45929,203.70378 597.04522,193.11785 564.50811,160.58074 553.92219,171.16667 482.76593,100.01043 420.4339,162.34441 487.92804,229.83855 375.32843,340.56706 252.06281,219.35222 c 24.65199,-23.51881 49.89555,-45.5676 74.87695,-65.39844 L 271.42413,88.555351 Z"
+       id="path13611"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

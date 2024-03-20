@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="CoA Spangdahlem.svg"
+   id="svg2130"
+   version="1.1"
+   viewBox="0 0 450.84001 509.85931"
+   height="509.85931"
+   width="450.84003"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2124" />
+  <sodipodi:namedview
+     inkscape:pagecheckerboard="false"
+     fit-margin-bottom="5"
+     fit-margin-right="5"
+     fit-margin-left="5"
+     fit-margin-top="5"
+     lock-margins="true"
+     units="px"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-11"
+     inkscape:window-x="-11"
+     inkscape:window-height="1506"
+     inkscape:window-width="2560"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="316.8"
+     inkscape:cx="262.4"
+     inkscape:zoom="1.25"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#333333"
+     id="base"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-global="true"
+     inkscape:lockguides="false"
+     guidecolor="#00ffff"
+     guideopacity="0.49803922"
+     inkscape:snap-tower-shingle-b-guides="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-to-guides="true" />
+  <g
+     id="layer1"
+     inkscape:label="spangdahlem"
+     transform="translate(-85.706983,-46.527136)">
+    <g
+       id="g20724"
+       inkscape:label="coa">
+      <path
+         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:11;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 526.04701,58.039951 V 319.84797 c 0,147.79682 -109.42395,226.03847 -214.92001,226.03847 -105.49607,0 -214.920017,-78.24165 -214.920017,-226.03847 V 57.039951 Z"
+         id="path4292"
+         sodipodi:nodetypes="cszscc"
+         inkscape:label="coa-0" />
+      <path
+         id="path16711"
+         style="opacity:1;fill:#da121a;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 255.71094,57.410156 V 247.83398 H 96.207031 v 72.01368 c 0,13.52903 0.934809,26.46162 2.681641,38.81836 H 255.71094 v 179.95117 c 18.18576,4.79603 36.85617,7.26953 55.41601,7.26953 18.55984,0 37.23026,-2.4735 55.41602,-7.26953 V 358.66602 h 156.82226 c 1.74684,-12.35674 2.68165,-25.28933 2.68165,-38.81836 V 247.83398 H 366.54297 V 57.667969 Z"
+         inkscape:label="trier_cross" />
+      <g
+         id="g20541"
+         inkscape:label="inescutcheon">
+        <path
+           style="fill:#0f47af;fill-opacity:1;stroke:none;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 425.1435,173.84473 v 139.40481 c 0,78.6973 -58.05015,120.3586 -114.01651,120.3586 -55.96637,0 -114.01652,-41.6613 -114.01652,-120.3586 V 173.31225 Z"
+           id="path16435"
+           sodipodi:nodetypes="cszscc"
+           inkscape:label="inescutcheon-0" />
+        <path
+           style="fill:#ffffff;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 386.53325,353.86647 -3.39923,3.1046 v 1.36226 h -3.29983 v 53.20282 H 309.7717 v -95.86948 h 38.56163 z"
+           id="path13888"
+           inkscape:label="chapel-0" />
+        <g
+           id="g14054"
+           inkscape:label="gate">
+          <path
+             id="path6739"
+             style="opacity:1;fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 333.892,411.53615 8e-5,-24.51304 h 18.10942 v 24.51304 m -27.41414,0 v -17.32412 c 0,-15.39667 5.39051,-19.90462 18.35943,-19.90462 12.96891,0 18.35943,4.50795 18.35943,19.90462 v 17.32412"
+             inkscape:label="gate-c1" />
+          <path
+             id="path1024"
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 340.62365,387.02311 v 24.51304 m 2.32314,-31.9143 v 7.40126 m -9.17971,0 c -0.88767,-3.11145 -2.49212,-4.23458 -4.33037,-4.8319 -1.83825,0.59732 -3.44268,1.72045 -4.33036,4.8319 m 17.84045,-7.40121 c -0.94087,-3.11145 -2.64144,-4.23458 -4.58985,-4.8319 -1.9484,0.59732 -3.64899,1.72045 -4.58986,4.8319 l -10e-6,7.40121 m 9.17972,-7.40121 c 0.94087,-3.11145 2.64144,-4.23458 4.58985,-4.8319 1.9484,0.59732 3.64899,1.72045 4.58986,4.8319 l -10e-6,7.40121 m 0,0 c 0.88767,-3.11145 2.49212,-4.23458 4.33037,-4.8319 1.83825,0.59732 3.44268,1.72045 4.33036,4.8319 m 0.51899,13.55288 h -9.17972 m -18.35946,0 h -9.17968 m 40.69294,10.96016 v -17.32412 c 0,-17.5568 -7.15731,-23.8787 -22.33351,-23.8787 -15.17621,0 -22.33351,6.3219 -22.33351,23.8787 v 17.32412"
+             inkscape:label="gate-c2" />
+        </g>
+        <g
+           id="g13197"
+           style="display:inline"
+           inkscape:label="chapel-shingles">
+          <path
+             id="path12627"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 377.75977,356.50391 -3.51563,1.57812 h 5.09375 z"
+             inkscape:label="chapel-shingle-01" />
+          <path
+             id="path12637"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 385.63281,352.9668 -7.87304,3.53711 1.57812,1.57812 h 0.49609 3.30079 v -1.11133 l 3.39843,-3.10351 -0.89843,-0.90039 z"
+             inkscape:label="chapel-shingle-02" />
+          <path
+             id="path12639"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 355.90625,357.4707 -1.36133,0.61133 h 1.97266 z"
+             inkscape:label="chapel-shingle-03" />
+          <path
+             id="path12641"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 363.78125,353.93555 -7.875,3.53515 0.61133,0.61133 h 11.41015 z"
+             inkscape:label="chapel-shingle-04" />
+          <path
+             id="path12643"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 371.65625,350.39844 -7.875,3.53711 4.14648,4.14648 h 10.5625 c 0.20082,-0.0815 0.40037,-0.16619 0.59571,-0.25391 z"
+             inkscape:label="chapel-shingle-05" />
+          <path
+             id="path12645"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 379.5293,346.86328 -7.87305,3.53516 4.86523,4.86718 c 1.1554,1.1554 5.23411,0.90083 8.86914,-0.35351 l 1.14258,-1.04492 z"
+             inkscape:label="chapel-shingle-06" />
+          <path
+             id="path12647"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 341.92773,354.90234 -8.23242,3.17969 h 11.41211 z"
+             sodipodi:nodetypes="cccc"
+             inkscape:label="chapel-shingle-07" />
+          <path
+             id="path12649"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 349.80273,351.36719 -7.875,3.53515 3.17969,3.17969 h 11.41016 z"
+             inkscape:label="chapel-shingle-08" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 365.10689,355.26106 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.9725 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12651"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-09" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 372.9815,351.72524 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.9725 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12653"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-10" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 380.85616,348.1894 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.9725 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12655"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-11" />
+          <path
+             id="path12657"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 320.07422,355.87109 -4.92383,2.21094 h 7.13477 z"
+             inkscape:label="chapel-shingle-12" />
+          <path
+             id="path12659"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 327.94922,352.33594 -7.875,3.53515 2.21094,2.21094 h 11.41015 z"
+             inkscape:label="chapel-shingle-13" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 343.25393,356.22896 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.9725 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12661"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-14" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 351.12854,352.69314 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.9725 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12663"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-15" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 359.00314,349.15731 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.9725 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12665"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-16" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 366.87775,345.62149 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.9725 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12667"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-17" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 374.75234,342.08568 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.9725 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12669"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-18" />
+          <path
+             id="path12671"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 309.77148,356.97656 v 1.10547 h 1.10352 z"
+             inkscape:label="chapel-shingle-19" />
+          <path
+             id="path12673"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 313.9707,349.76758 -4.19922,1.88476 v 5.32618 l 1.10352,1.10351 H 319 c 0.82228,-0.24573 1.63433,-0.54079 2.40039,-0.88476 z"
+             inkscape:label="chapel-shingle-20" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 329.27558,353.66104 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.9725 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12675"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-21" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 337.15019,350.12522 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.9725 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12677"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-22" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 345.02479,346.58939 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.9725 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12679"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-23" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 352.8994,343.05356 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.97251 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12681"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-24" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 360.77401,339.51774 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.97251 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12683"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-25" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 368.64865,335.9819 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.97251 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12685"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-26" />
+          <path
+             id="path12687"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 309.77148,345.56836 v 7.0918 c 1.79,-0.24312 3.77831,-0.78194 5.5254,-1.56641 z"
+             inkscape:label="chapel-shingle-27" />
+          <path
+             id="path12689"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 315.74219,340.12695 -5.97071,2.68164 v 2.75977 l 2.9629,2.96094 c 1.32589,1.32588 6.5002,0.79526 10.4375,-0.97266 z"
+             inkscape:label="chapel-shingle-28" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 331.04644,344.02146 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.97251 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12691"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-29" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 338.92104,340.48563 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.97251 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12693"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-30" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 346.79565,336.94981 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.97251 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12695"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-31" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 354.67026,333.41399 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.97251 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12697"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-32" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 362.54484,329.87817 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.97251 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12699"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-33" />
+          <path
+             id="path12701"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 309.77148,334.15625 v 9.00781 c 2.15099,-0.0409 4.94472,-0.65477 7.29688,-1.71094 z"
+             inkscape:label="chapel-shingle-34" />
+          <path
+             id="path12703"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 317.51367,330.48828 -7.74219,3.47461 v 0.19336 l 4.73243,4.73437 c 1.32589,1.32589 6.50215,0.79527 10.43945,-0.97265 z"
+             inkscape:label="chapel-shingle-35" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 332.81729,334.38188 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.97251 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12705"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-36" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 340.6919,330.84606 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.97251 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12707"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-37" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 348.53386,327.27759 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.97251 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12709"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-38" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 356.44109,323.77442 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.97251 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12711"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-39" />
+          <path
+             id="path12713"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 311.41016,324.38477 -1.63868,0.73632 v 8.27539 c 2.16157,0.42378 5.99322,-0.20123 9.06836,-1.58203 z"
+             inkscape:label="chapel-shingle-40" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 326.71355,328.27814 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.97251 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12715"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-41" />
+          <path
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 334.58816,324.74232 c -3.9373,1.76792 -9.11204,2.29839 -10.43793,0.97251 l -4.86631,-4.86631 7.87461,-3.53582 z"
+             id="path12717"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="chapel-shingle-42" />
+          <path
+             id="path12719"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 330.82617,315.66602 -3.66797,1.64648 4.86719,4.86719 c 1.32589,1.32588 6.5002,0.79526 10.4375,-0.97266 l -5.54101,-5.54101 z"
+             inkscape:label="chapel-shingle-43" />
+          <path
+             id="path12721"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 336.92188,315.66602 2.97851,2.97656 c 1.32589,1.32588 6.5002,0.79526 10.4375,-0.97266 l -2.00391,-2.0039 z"
+             inkscape:label="chapel-shingle-44" />
+          <path
+             id="path12723"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 309.77148,322.74805 v 4.00586 c 1.01199,-0.27261 2.02277,-0.62084 2.9629,-1.04297 z"
+             inkscape:label="chapel-shingle-45" />
+          <path
+             id="path12725"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 311.12695,315.66602 -1.35547,0.60937 v 6.4707 l 0.4004,0.40039 c 1.32588,1.32588 6.5002,0.79527 10.4375,-0.97265 l -6.50782,-6.50781 z"
+             inkscape:label="chapel-shingle-46" />
+          <path
+             id="path12727"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 314.10156,315.66602 3.94532,3.94531 c 1.32588,1.32588 6.5002,0.79526 10.4375,-0.97266 l -2.97266,-2.97265 z"
+             inkscape:label="chapel-shingle-47" />
+          <path
+             id="path12729"
+             style="fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 325.51172,315.66602 0.41016,0.41015 c 1.17207,1.17206 5.34961,0.89149 9.02343,-0.41015 z"
+             inkscape:label="chapel-shingle-48" />
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 386.53325,353.86647 -3.39923,3.1046 v 1.23693 h -3.29983 v 0 H 309.7717 v -42.54133 h 38.56163 z"
+           id="path14748"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:label="chapel-roof" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 309.7717,315.66667 h 38.56163 l 38.19992,38.1998 -3.39923,3.1046 v 1.36226 h -3.29983 v 53.20282 H 309.7717"
+           id="path1459"
+           inkscape:label="chapel-f" />
+        <path
+           style="fill:#ffffff;stroke:none;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 309.7717,277.30371 5.61286,-2.94628 v -17.08841 l 4.71405,-3.41769 -18.03123,-9.78164 -25.45239,-50.32243 -25.45238,50.32243 -18.03123,9.78164 4.71405,3.41769 v 17.08841 l 5.61285,2.94628 v 134.23244 h 66.31342 z"
+           id="path14057"
+           inkscape:label="tower-0"
+           sodipodi:nodetypes="cccccccccccccc" />
+        <path
+           id="path4485"
+           style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 274.7294,284.20496 h 3.77122 v 11.96185 h -3.77122 z m -1.53207,68.17688 h 6.83536 v 11.90296 h -6.83536 z"
+           inkscape:label="tower-windows" />
+        <path
+           id="path5193"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 249.84439,334.04903 h -6.38611 m 53.58548,66.57597 h 6.06935 V 404 h 6.65859 m -10.07629,-16.58333 h 3.4177 v 6.375 h 6.65859 m 0,-9.75 h -10.07629 v 3.375 h -2.65165 m 2.65165,-13.55047 h 10.07629 m -10.07629,-13.03906 h -2.65165 m 12.72772,-3.29784 -10.07607,-10e-6 V 364.125 H 309.7717 M 299.69541,344 v 3.33292 h 3.4177 v 2.98653 m 6.65837,-9.52778 H 299.69541 V 344 h -2.65165 m 6.06934,-23.29167 v 6.79023 h 6.65838 m -10.07607,-6.79023 h 10.07629 m -12.72794,-26.84654 h 2.65165 v 13.37611 h 3.4177 v 3.41768 h 6.65859 m 0,-9.84057 h -10.07629 m 10.07629,-16.79379 h -10.07629 m -46.66904,116.6137 v 3.29983 h 3.29983 v 7.6014 m -12.86792,-20.97751 h 9.56809 v 10.07628 h -9.56809 m 0,-26.69328 h 9.56809 v 6.59966 h -9.56809 m 0,-19.85792 h 9.56809 v -6.71751 m -9.56809,-26.57543 h 6.38611 v 6.65859 h 3.18198 v 6.54074 h -3.18198 v 10.13519 h -6.38611 m 0,-30.05204 h 6.38611 v -3.41768 h 3.18198 m -9.56809,-16.55808 h 6.38611 v -3.29983 h 3.18198 v -3.35876 m -9.56809,-10.07627 h 6.38611"
+           inkscape:label="tower-c" />
+        <g
+           id="g1394"
+           inkscape:label="tower-shingles">
+          <g
+             id="g24621"
+             inkscape:label="tower-shingles-b">
+            <path
+               id="path22290"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 236.61523,251.96094 -3.48437,1.89062 3.46094,2.50977 c 0.0149,-0.0818 0.0234,-0.16611 0.0234,-0.25391 z"
+               inkscape:label="tower-shingle-b-01" />
+            <path
+               id="path22288"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 238.1543,251.12695 -1.53907,0.83399 v 4.14648 c 0,0.10193 0.0113,0.19909 0.0312,0.29297 l 1.19922,0.86914 v 0.38086 c 1.92633,0.84558 5.43555,0.3314 5.43555,-1.54297 v -4.98047 z"
+               inkscape:label="tower-shingle-b-02" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 249.94835,251.1274 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -4.97916 z"
+               id="path22286"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-03" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 256.61501,251.1274 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -4.97916 z"
+               id="path22284"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-04" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 263.28167,251.1274 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -4.97916 z"
+               id="path22282"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-05" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 269.94833,251.1274 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -4.97916 z"
+               id="path22280"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-06" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 276.61499,251.1274 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -4.97916 z"
+               id="path22278"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-07" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 283.28165,251.1274 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -4.97916 z"
+               id="path22274"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-08" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 289.94831,251.1274 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -4.97916 z"
+               id="path22292"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-09" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 296.61497,251.1274 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -4.97916 z"
+               id="path22294"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-10" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 303.28163,251.1274 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -4.97916 z"
+               id="path22296"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-11" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 309.94829,251.1274 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -4.97916 z"
+               id="path22298"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-12" />
+            <path
+               id="path22300"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 309.94922,251.12695 v 4.98047 c 0,1.8746 3.50937,2.38899 5.43555,1.54297 v -0.38086 l 1.19921,-0.86914 c 0.0199,-0.0939 0.0312,-0.19104 0.0312,-0.29297 v -4.14453 l -1.54101,-0.83594 z"
+               inkscape:label="tower-shingle-b-13" />
+            <path
+               id="path22302"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 316.61523,251.96289 v 4.14453 c 0,0.0871 0.009,0.17071 0.0234,0.25196 l 3.45899,-2.50782 z"
+               inkscape:label="tower-shingle-b-14" />
+            <path
+               id="path22276"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 239.94922,250.15234 -6.33789,3.4375 c 1.34227,1.63544 6.33789,1.3359 6.33789,-0.90039 z"
+               inkscape:label="tower-shingle-b-15" />
+            <path
+               id="path23039"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 244.45508,247.70898 -4.50586,2.44336 v 2.53711 c 0,2.58333 6.66601,2.58333 6.66601,0 v -4.98047 z"
+               inkscape:label="tower-shingle-b-16" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 253.28168,247.7097 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -4.97916 z"
+               id="path23041"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-17" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 259.94834,247.7097 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -4.97916 z"
+               id="path23043"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-18" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 266.615,247.7097 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -4.97916 z"
+               id="path23045"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-19" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 273.28166,247.7097 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -4.97916 z"
+               id="path23047"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-20" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 279.94832,247.7097 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -4.97916 z"
+               id="path23049"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-21" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 286.61498,247.7097 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -4.97916 z"
+               id="path23051"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-22" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 293.28164,247.7097 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -4.97916 z"
+               id="path23053"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-23" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 299.9483,247.7097 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -4.97916 z"
+               id="path23055"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-24" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 306.61496,247.7097 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -4.97916 z"
+               id="path23057"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-25" />
+            <path
+               id="path23059"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 306.61523,247.70898 v 4.98047 c 0,2.58333 6.66602,2.58333 6.66602,0 v -2.53515 l -4.50781,-2.44532 z"
+               inkscape:label="tower-shingle-b-26" />
+            <path
+               id="path23061"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 313.28125,250.1543 v 2.53515 c 0,2.23531 4.99107,2.53538 6.33594,0.90235 z"
+               inkscape:label="tower-shingle-b-27" />
+            <path
+               id="path21938"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 243.28125,248.3457 -4.89844,2.65625 c 1.97508,0.55616 4.89844,-0.019 4.89844,-1.73047 z"
+               inkscape:label="tower-shingle-b-28" />
+            <path
+               id="path23063"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 249.94922,244.72852 -6.66797,3.61718 v 0.92578 c 0,2.58333 6.66797,2.58333 6.66797,0 z"
+               inkscape:label="tower-shingle-b-29" />
+            <path
+               id="path23065"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 250.75195,244.29297 -0.80273,0.43555 v 4.54296 c 0,2.58333 6.66601,2.58333 6.66601,0 v -4.97851 z"
+               inkscape:label="tower-shingle-b-30" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 263.28167,244.292 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 V 244.292 Z"
+               id="path23067"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-31" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 269.94833,244.292 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 V 244.292 Z"
+               id="path23069"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-32" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 276.61499,244.292 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 V 244.292 Z"
+               id="path23071"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-33" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 283.28165,244.292 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 V 244.292 Z"
+               id="path23073"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-34" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 289.94831,244.292 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 V 244.292 Z"
+               id="path23075"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-35" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 296.61497,244.292 v 4.97916 c 0,2.58333 -6.66666,2.58333 -6.66666,0 V 244.292 Z"
+               id="path23077"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-b-36" />
+            <path
+               id="path23079"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 296.61523,244.29297 v 4.97851 c 0,2.58333 6.66602,2.58333 6.66602,0 v -4.54296 l -0.80469,-0.43555 z"
+               inkscape:label="tower-shingle-b-37" />
+            <path
+               id="path23081"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 303.28125,244.72852 v 4.54296 c 0,2.58333 6.66797,2.58333 6.66797,0 v -0.92578 z"
+               inkscape:label="tower-shingle-b-38" />
+            <path
+               id="path23083"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 309.77148,248.25 v 1.02148 c 0,1.74399 3.03737,2.30799 5.01172,1.69727 z"
+               inkscape:label="tower-shingle-b-39" />
+          </g>
+          <g
+             id="g19362"
+             inkscape:label="tower-shingles-l"
+             transform="translate(81.123665,7.087065)">
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 203.16365,224.81799 -2.51151,9.63643 c -0.65154,2.49983 5.79964,4.18118 6.45115,1.68136 l 2.51153,-9.63642 z"
+               id="path24450"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-l-01" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 209.61472,226.49965 -2.51151,9.63643 c -0.65154,2.49983 5.79964,4.18118 6.45115,1.68136 l 2.51153,-9.63642 z"
+               id="path24448"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-l-02" />
+            <path
+               id="path24290"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               inkscape:label="tower-shingle-l-03"
+               d="m 211.48242,188.74023 -2.51172,9.63672 c -0.65154,2.49983 5.79966,4.18146 6.45118,1.68164 l 0.75195,-2.88671 -4.19922,-8.30274 z"
+               transform="translate(4.583318,39.440071)" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 201.19384,219.1591 -2.51153,9.63643 c -0.65152,2.49983 5.79964,4.18118 6.45116,1.68136 l 2.51153,-9.63643 z"
+               id="path24094"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-l-04" />
+            <path
+               id="path23032"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               inkscape:label="tower-shingle-l-05"
+               d="m 203.0625,181.40039 -2.51172,9.63672 c -0.65152,2.49983 5.79965,4.18146 6.45117,1.68164 l 2.35352,-9.02734 -0.37891,-0.75 z"
+               transform="translate(4.583318,39.440071)" />
+            <path
+               id="path23875"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               inkscape:label="tower-shingle-l-06"
+               d="m 209.35547,183.69141 -2.35352,9.02734 c -0.65153,2.49983 5.79966,4.18146 6.45117,1.68164 l 0.44922,-1.7207 z"
+               transform="translate(4.583318,39.440071)" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 199.22402,213.50021 -2.51153,9.63643 c -0.65152,2.49983 5.79966,4.18118 6.45116,1.68136 l 2.51153,-9.63643 z"
+               id="path23030"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-l-07" />
+            <path
+               id="path22948"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               inkscape:label="tower-shingle-l-08"
+               d="m 201.0918,175.74219 -2.51172,9.63476 c -0.65152,2.49983 5.79965,4.18146 6.45117,1.68164 l 2.05078,-7.86328 -1.10351,-2.17969 z"
+               transform="translate(4.583318,39.440071)" />
+            <path
+               id="path22946"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               inkscape:label="tower-shingle-l-09"
+               d="m 207.08203,179.19531 -2.05078,7.86328 c -0.65152,2.49983 5.79965,4.18146 6.45117,1.68164 l 0.14453,-0.55664 z"
+               transform="translate(4.583318,39.440071)" />
+            <path
+               id="path21318"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               inkscape:label="tower-shingle-l-10"
+               d="m 199.12109,170.08203 -2.50976,9.63672 c -0.65152,2.49983 5.79965,4.18146 6.45117,1.68164 l 1.74414,-6.69922 -1.82617,-3.61328 z"
+               transform="translate(4.583318,39.440071)" />
+            <path
+               id="path21316"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               inkscape:label="tower-shingle-l-11"
+               d="m 204.80664,174.70117 -1.74414,6.69922 c -0.60482,2.32065 4.90951,3.93454 6.22461,2.1543 z"
+               transform="translate(4.583318,39.440071)" />
+            <path
+               id="path21415"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               inkscape:label="tower-shingle-l-12"
+               d="m 197.15234,164.42383 -2.51172,9.63672 c -0.65152,2.49983 5.79965,4.18146 6.45118,1.68164 l 1.44336,-5.53516 -2.55274,-5.04492 z"
+               transform="translate(4.583318,39.440071)" />
+            <path
+               id="path18572"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               inkscape:label="tower-shingle-l-13"
+               d="m 202.53516,170.20703 -1.44336,5.53516 c -0.53198,2.04116 3.67087,3.53508 5.58593,2.65429 z"
+               transform="translate(4.583318,39.440071)" />
+            <path
+               id="path22377"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               inkscape:label="tower-shingle-l-14"
+               d="m 195.18164,158.76562 -2.51172,9.63477 c -0.65152,2.49983 5.79964,4.18146 6.45117,1.68164 l 1.13868,-4.37109 -3.27539,-6.47656 z"
+               transform="translate(4.583318,39.440071)" />
+            <path
+               id="path21573"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               inkscape:label="tower-shingle-l-15"
+               d="m 200.25977,165.71094 -1.13868,4.37109 c -0.46771,1.79458 2.725,3.16614 4.80469,2.87305 z"
+               transform="translate(4.583318,39.440071)" />
+            <path
+               id="path22459"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               inkscape:label="tower-shingle-l-16"
+               d="m 193.21289,153.10547 -2.51172,9.63672 c -0.65153,2.49983 5.79965,4.18146 6.45117,1.68164 l 0.83594,-3.20508 -4.00195,-7.91211 z"
+               transform="translate(4.583318,39.440071)" />
+            <path
+               id="path22735"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               inkscape:label="tower-shingle-l-17"
+               d="m 197.98828,161.21875 -0.83594,3.20508 c -0.40548,1.5558 1.9393,2.79317 3.92578,2.90429 z"
+               transform="translate(4.583318,39.440071)" />
+            <path
+               id="path24509"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               inkscape:label="tower-shingle-l-18"
+               d="m 193.44141,152.22852 -1.48438,5.69531 c -0.54142,2.07735 3.8194,3.58821 5.68359,2.60547 z"
+               transform="translate(4.583318,39.440071)" />
+          </g>
+          <use
+             x="0"
+             y="0"
+             xlink:href="#g19362"
+             id="use26654"
+             transform="matrix(-1,0,0,1,553.22998,0)"
+             width="100%"
+             height="100%"
+             inkscape:label="tower-shingles-r" />
+          <g
+             id="g19397"
+             inkscape:label="tower-shingles-c">
+            <path
+               id="path14776"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 253.28125,242.91992 -2.11914,1.15039 -4.4082,2.39063 c 0.95569,1.95673 6.52734,1.75438 6.52734,-0.60742 z"
+               inkscape:label="tower-shingle-c-01" />
+            <path
+               id="path14774"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 259.94922,239.30273 -6.66797,3.61719 v 2.9336 c 0,2.58333 6.66797,2.58333 6.66797,0 z"
+               inkscape:label="tower-shingle-c-02" />
+            <path
+               id="path14772"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 265.63086,235.89648 -0.0996,0.37891 -5.58203,3.02734 v 6.55079 c 0,2.58333 6.66601,2.58333 6.66601,0 v -9.95704 z"
+               inkscape:label="tower-shingle-c-03" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 273.28142,235.89658 v 9.95834 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -9.95834 z"
+               id="path14770"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-c-04" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 279.94808,235.89658 v 9.95834 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -9.95834 z"
+               id="path14524"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-c-05" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 286.61498,235.89648 v 9.95834 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -9.95834 z"
+               id="path14778"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-c-06" />
+            <path
+               id="path14780"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 286.61523,235.89648 v 9.95899 c 0,2.58333 6.66602,2.58333 6.66602,0 v -6.55078 l -5.58203,-3.0293 -0.0996,-0.37891 z"
+               inkscape:label="tower-shingle-c-07" />
+            <path
+               id="path14782"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 293.28125,239.30469 v 6.55078 c 0,2.58333 6.66797,2.58333 6.66797,0 v -2.93359 z"
+               inkscape:label="tower-shingle-c-08" />
+            <path
+               id="path14784"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 299.94922,242.92188 v 2.93359 c 0,2.36194 5.57021,2.56259 6.52539,0.60547 l -4.4082,-2.39063 z"
+               inkscape:label="tower-shingle-c-09" />
+            <path
+               id="path11038"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 263.28125,237.49609 -6.26172,3.39649 c 1.44337,1.5387 6.26172,1.21018 6.26172,-0.98633 z"
+               inkscape:label="tower-shingle-c-10" />
+            <path
+               id="path11036"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 267.17969,229.94727 -1.64844,6.32812 -2.25,1.2207 v 2.41016 c 0,2.58333 6.66797,2.58333 6.66797,0 v -9.95898 z"
+               inkscape:label="tower-shingle-c-11" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 276.61499,229.94791 v 9.95834 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -9.95834 z"
+               id="path11030"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-c-12" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 283.28165,229.94791 v 9.95834 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -9.95834 z"
+               id="path10872"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-c-13" />
+            <path
+               id="path11032"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 283.28125,229.94727 v 9.95898 c 0,2.58333 6.66797,2.58333 6.66797,0 v -2.41016 l -2.25,-1.2207 -1.64844,-6.32812 z"
+               inkscape:label="tower-shingle-c-14" />
+            <path
+               id="path11034"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 289.94922,237.49609 v 2.41016 c 0,2.1967 4.81882,2.5255 6.26172,0.98633 z"
+               inkscape:label="tower-shingle-c-15" />
+            <path
+               id="path11042"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 268.73047,224 -2.11524,8.11719 v 1.84179 c 0,2.58333 6.66602,2.58333 6.66602,0 V 224 Z"
+               inkscape:label="tower-shingle-c-16" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 279.94832,223.99999 v 9.95834 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -9.95834 z"
+               id="path9879"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-c-17" />
+            <path
+               id="path11040"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 279.94922,224 v 9.95898 c 0,2.58333 6.66601,2.58333 6.66601,0 v -1.84179 L 284.5,224 Z"
+               inkscape:label="tower-shingle-c-18" />
+            <path
+               id="path11044"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 269.94922,219.32422 -2.76172,10.59766 c 1.45529,-0.13157 2.76172,-0.76912 2.76172,-1.91211 z"
+               inkscape:label="tower-shingle-c-19" />
+            <path
+               id="path11048"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 270.28125,218.05273 -0.33203,1.27149 v 8.68555 c 0,2.58333 6.66601,2.58333 6.66601,0 v -9.95704 z"
+               sodipodi:insensitive="true"
+               inkscape:label="tower-shingle-c-20" />
+            <path
+               id="path11046"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 276.61523,218.05273 v 9.95704 c 0,2.58333 6.66602,2.58333 6.66602,0 v -8.68555 l -0.33203,-1.27149 z"
+               inkscape:label="tower-shingle-c-21" />
+            <path
+               id="path11301"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 283.28125,219.32422 v 8.68555 c 0,1.14299 1.30643,1.78054 2.76172,1.91211 z"
+               inkscape:label="tower-shingle-c-22" />
+            <path
+               id="path11325"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 271.83203,212.10352 -3.07226,11.78125 c 1.94911,0.3894 4.52148,-0.21723 4.52148,-1.82227 v -9.95898 z"
+               inkscape:label="tower-shingle-c-23" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 279.94832,212.10415 v 9.95834 c 0,2.58333 -6.66666,2.58333 -6.66666,0 v -9.95834 z"
+               id="path11305"
+               sodipodi:nodetypes="ccccc"
+               inkscape:label="tower-shingle-c-24" />
+            <path
+               id="path11323"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 279.94922,212.10352 v 9.95898 c 0,1.60504 2.57237,2.21167 4.52148,1.82227 l -3.07226,-11.78125 z"
+               inkscape:label="tower-shingle-c-25" />
+            <path
+               id="path11321"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 273.38086,206.15625 -2.88672,11.08008 c 1.59219,1.38067 6.12109,1.00813 6.12109,-1.1211 v -9.95898 z"
+               inkscape:label="tower-shingle-c-26" />
+            <path
+               id="path11309"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 276.61523,206.15625 v 9.95898 c 0,2.13003 4.53051,2.50165 6.1211,1.11915 l -2.88672,-11.07813 z"
+               inkscape:label="tower-shingle-c-27" />
+            <path
+               id="path11327"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 273.34766,206.28516 -1.4336,5.5039 c 0.83551,-0.31052 1.4336,-0.85068 1.4336,-1.62304 z"
+               inkscape:label="tower-shingle-c-28" />
+            <path
+               id="path11315"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 274.93164,200.20898 -1.65039,6.33008 v 3.62696 c 0,2.58333 6.66797,2.58333 6.66797,0 v -3.62696 l -1.65039,-6.33008 z"
+               inkscape:label="tower-shingle-c-29" />
+            <path
+               id="path11313"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 279.94922,206.53906 v 3.62696 c 0,0.75024 0.56336,1.28122 1.36133,1.5957 z"
+               inkscape:label="tower-shingle-c-30" />
+            <path
+               id="path11319"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 276.48242,194.25977 -3.09961,11.89453 c 1.63214,-0.0257 3.23242,-0.67012 3.23242,-1.93555 v -9.95898 z"
+               inkscape:label="tower-shingle-c-31" />
+            <path
+               id="path11317"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 276.61523,194.25977 v 9.95898 c 0,1.26543 1.60028,1.90985 3.23243,1.93555 l -3.09961,-11.89453 z"
+               inkscape:label="tower-shingle-c-32" />
+            <path
+               id="path11333"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 276.61523,193.74805 -1.625,6.23633 c 0.9985,0.29556 2.25151,0.29556 3.25,0 z"
+               inkscape:label="tower-shingle-c-33" />
+          </g>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 251.1626,244.06971 14.36895,-7.79491 11.08344,-42.52752 11.08344,42.5275 14.36895,7.79491"
+           id="path9480"
+           sodipodi:nodetypes="ccccc"
+           inkscape:label="tower-roof-c" />
+        <path
+           id="path7517"
+           style="fill:none;stroke:#000000;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 270.06702,187.54485 h 2.65596 m -1.32797,2.66687 v -4.06589 m 0,4.06589 H 281.835 m -1.32798,-2.66687 h 2.65595 m -1.32797,2.66687 v -4.06589 m -7.63073,-2.12129 h 4.82144 m -2.41072,9.72273 v -12.96364"
+           inkscape:label="tower-cross" />
+        <g
+           id="g1941"
+           inkscape:label="tower-t">
+          <path
+             style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 243.45828,277.30372 -5.61285,-2.94629 v -17.08841 h 77.53927 l -1.4e-4,17.08841 -5.48258,2.87789 z"
+             id="path3424"
+             inkscape:label="tower-t-0"
+             sodipodi:nodetypes="ccccccc" />
+          <g
+             id="g1935"
+             inkscape:label="tower-t-c">
+            <path
+               id="path3625"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               inkscape:label="tower-t-c1"
+               d="m 250.76862,257.26902 v 20.00722 m 12.92321,-20.00722 v 20.00722 m 12.92322,-20.00722 v 20.00722 m 12.92322,-20.00722 v 20.00722 m 12.92322,-20.00722 v 20.00722" />
+            <path
+               id="path5052"
+               style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 237.84543,267.28637 h 77.53919 m -71.0776,-10.01735 v 20.00722 m 12.9232,-20.00722 v 20.00722 m 12.92322,-20.00722 v 20.00722 m 12.92322,-20.00722 v 20.00722 m 12.92322,-20.00722 v 20.00722 m 12.92322,-20.00722 v 20.00722"
+               inkscape:label="tower-t-c2" />
+          </g>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 309.7717,277.30371 5.61286,-2.94628 v -17.08841 l 4.71405,-3.41769 -18.03123,-9.78164 -25.45239,-50.32243 -25.45238,50.32243 -18.03123,9.78164 4.71405,3.41769 v 17.08841 l 5.61285,2.94628 v 134.23244 h 66.31342 z"
+           id="path1917"
+           inkscape:label="tower-f"
+           sodipodi:nodetypes="cccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 425.1435,173.84473 v 139.40481 c 0,78.6973 -58.05015,120.3586 -114.01651,120.3586 -55.96637,0 -114.01652,-41.6613 -114.01652,-120.3586 V 173.31225 Z"
+           id="path5109"
+           sodipodi:nodetypes="cszscc"
+           inkscape:label="inescutcheon-f" />
+      </g>
+      <path
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:11;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 526.04701,58.039946 V 319.84797 c 0,147.79682 -109.42395,226.03847 -214.92001,226.03847 -105.49607,0 -214.920017,-78.24165 -214.920017,-226.03847 V 57.039946 Z"
+         id="path4636"
+         sodipodi:nodetypes="cszscc"
+         inkscape:label="coa-f" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+    width="100%" height="100%" viewBox="0 0 500 600" id="svg2">
+  <defs
+     id="defs5" />
+  <path
+     d="M 250,595 C 385.73,595 495,485.35833 495,349.16667 L 495,5 L 250,5 L 5,5 L 5,349.16667 C 5,485.35833 114.27,595 250,595 z"
+     id="feld1000"
+     style="opacity:1;fill:#fcdd09;fill-opacity:1;fill-rule:evenodd;stroke:#fcdd09;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="M 366,5 C 345.38542,27.01151 361.62661,54.898709 338.25,80.0625 C 311.31755,109.05397 292.60707,96.73903 263.375,127.84375 C 239.96032,152.75842 253.2086,171.84177 228.71875,203.34375 C 203.7735,235.43153 179.22139,222.78611 155.78125,250.0625 C 130.1299,280.55555 148.72274,287.47973 129.3125,315.3125 C 103.85785,344.56163 78.932558,333.78779 50.71875,367.03125 C 28.797883,392.85993 28.067757,414.1071 20.9375,436.84375 C 37.470915,480.54014 66.022886,518.18487 102.59375,545.78125 C 130.69072,517.03306 123.31217,485.50671 152.1875,454.59375 C 180.09817,423.91901 202.11357,433.41721 225.125,405.03125 C 242.74009,382.65975 241.0589,356.20945 260.67566,334.26941 C 285.17831,305.46047 313.45375,313.64802 336.90625,286.46875 C 363.10987,254.01499 344.15078,249.99479 369.03125,214.15625 C 402.90903,176.32099 413.9708,197.70438 440.5625,168.125 C 466.66462,135.01279 445.08518,107.16769 495,73.96875 L 495,5 L 366,5 z"
+     id="wellenbalken"
+     style="opacity:1;fill:#078930;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" />
+  <path
+     d="M 144,73 A 50,47 0 1 1 44,73 A 50,47 0 1 1 144,73 z"
+     transform="matrix(0.95,0,0,1.0106383,4.2,-3.2765957)"
+     id="kugel2010"
+     style="opacity:1;fill:#078930;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.10282087;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="M 144,73 A 50,47 0 1 1 44,73 A 50,47 0 1 1 144,73 z"
+     transform="matrix(0.95,0,0,1.0106383,130.2,-3.2765957)"
+     id="kugel2020"
+     style="opacity:1;fill:#078930;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.10282087;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="M 144,73 A 50,47 0 1 1 44,73 A 50,47 0 1 1 144,73 z"
+     transform="matrix(0.95,0,0,1.0106383,4.2,124.7234)"
+     id="kugel2030"
+     style="opacity:1;fill:#078930;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.10282087;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="M 144,73 A 50,47 0 1 1 44,73 A 50,47 0 1 1 144,73 z"
+     transform="matrix(0.95,0,0,1.0106383,336.2,192.7234)"
+     id="kugel2040"
+     style="opacity:1;fill:#078930;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.10282087;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="M 144,73 A 50,47 0 1 1 44,73 A 50,47 0 1 1 144,73 z"
+     transform="matrix(0.95,0,0,1.0106383,325.2,316.7234)"
+     id="kugel2050"
+     style="opacity:1;fill:#078930;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.10282087;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="M 144,73 A 50,47 0 1 1 44,73 A 50,47 0 1 1 144,73 z"
+     transform="matrix(0.95,0,0,1.0106383,247.2,413.7234)"
+     id="kugel2060"
+     style="opacity:1;fill:#078930;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.10282087;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="M 144,73 A 50,47 0 1 1 44,73 A 50,47 0 1 1 144,73 z"
+     transform="matrix(0.95,0,0,1.0106383,120.2,430.7234)"
+     id="kugel2070"
+     style="opacity:1;fill:#078930;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.10282087;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="M 250,595 C 385.73,595 495,485.35833 495,349.16667 L 495,5 L 250,5 L 5,5 L 5,349.16667 C 5,485.35833 114.27,595 250,595 z"
+     id="schildrahmen"
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+</svg>
