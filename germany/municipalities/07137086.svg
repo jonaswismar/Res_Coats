@@ -1,11 +1,1 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="459" width="409" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g stroke="#000" stroke-width="9">
-<path d="m404.5 4.5v250a200 200 0 0 1 -400 0v-250z" fill="#fff"/>
-<circle id="a" cy="82.5" cx="87" r="47" fill="none"/>
-<path d="m239.5 4.5v156h163.5v70h-163.5v219.38c-23.87 4.09-47.86 3.86-70 0v-219.38h-163.5v-70h163.5v-156z" stroke-width="6" fill="#da121a"/>
-<use x="236.5" xlink:href="#a"/>
-<use y="227.5" x="236.5" xlink:href="#a"/>
-<use y="227.5" xlink:href="#a"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="459" width="409" xmlns:xlink="http://www.w3.org/1999/xlink"><g stroke="#000" stroke-width="9"><path d="M404.5 4.5v250a200 200 0 0 1-400 0V4.5z" fill="#fff"/><circle id="a" cy="82.5" cx="87" r="47" fill="none"/><path d="M239.5 4.5v156H403v70H239.5v219.38c-23.87 4.09-47.86 3.86-70 0V230.5H6v-70h163.5V4.5z" stroke-width="6" fill="#da121a"/><use x="236.5" xlink:href="#a"/><use y="227.5" x="236.5" xlink:href="#a"/><use y="227.5" xlink:href="#a"/></g></svg>
