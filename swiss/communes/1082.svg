@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   width="520" height="585" viewBox="0 0 100 112.5">
+  <defs>
+    <clipPath id="cpSchild"> <path d="M 2,2 H 98 V 62.5 a 48,48 0 0,1 -96,0 z" /> </clipPath>
+  </defs>
+  <path d="M 1,1 H 99 V 62.5 a 49,49 0 0,1 -98,0 z" stroke="black" stroke-width="2" fill="#e2001a" />
+  <path d="M 0,-27.5 L 127.5,100 100,127.5 -27.5,0" stroke="black" stroke-width="1" fill="white" clip-path="url(#cpSchild)" />
+</svg>

@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="763"
+   width="603"
+   version="1.0"
+   id="svg20"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="20201031202732!Les_Verrieres-coat_of_arms.svg">
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:coverage />
+        <dc:description />
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <dc:language />
+        <dc:title />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs29">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5887"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5881"
+       is_visible="true" />
+    <linearGradient
+       id="linearGradient2893">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.3137255;"
+         offset="0"
+         id="stop2895" />
+      <stop
+         id="stop2897"
+         offset="0.19"
+         style="stop-color:#ffffff;stop-opacity:0.25098041;" />
+      <stop
+         style="stop-color:#6b6b6b;stop-opacity:0.1254902;"
+         offset="0.60000002"
+         id="stop2901" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.1254902;"
+         offset="1"
+         id="stop2899" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2955">
+      <stop
+         style="stop-color:white;stop-opacity:0;"
+         offset="0"
+         id="stop2965" />
+      <stop
+         style="stop-color:black;stop-opacity:0.64583331;"
+         offset="1"
+         id="stop2959" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2893"
+       id="radialGradient3236"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.215027,1.531577e-24,1.464684e-23,1.266667,-839.1924,-490.4894)"
+       cx="858.04236"
+       cy="579.93323"
+       fx="858.04236"
+       fy="579.93323"
+       r="300" />
+    <foreignObject
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="foreignObject3067" />
+    <foreignObject
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="foreignObject2183" />
+    <foreignObject
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="foreignObject3850" />
+    <foreignObject
+       id="foreignObject22445"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" />
+    <foreignObject
+       id="foreignObject22443"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" />
+    <foreignObject
+       id="foreignObject22441"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" />
+    <radialGradient
+       r="300"
+       fy="579.93323"
+       fx="858.04236"
+       cy="579.93323"
+       cx="858.04236"
+       gradientTransform="matrix(1.215027,1.531577e-24,1.464684e-23,1.266667,-839.1924,-490.4894)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient22439"
+       xlink:href="#linearGradient2893"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient22433">
+      <stop
+         id="stop22435"
+         offset="0"
+         style="stop-color:white;stop-opacity:0;" />
+      <stop
+         id="stop22437"
+         offset="1"
+         style="stop-color:black;stop-opacity:0.64583331;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient22423">
+      <stop
+         id="stop22425"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.3137255;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.25098041;"
+         offset="0.19"
+         id="stop22427" />
+      <stop
+         id="stop22429"
+         offset="0.60000002"
+         style="stop-color:#6b6b6b;stop-opacity:0.1254902;" />
+      <stop
+         id="stop22431"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0.1254902;" />
+    </linearGradient>
+    <foreignObject
+       id="foreignObject25169"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" />
+    <foreignObject
+       id="foreignObject25167"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" />
+    <foreignObject
+       id="foreignObject25165"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" />
+    <radialGradient
+       r="300"
+       fy="579.93323"
+       fx="858.04236"
+       cy="579.93323"
+       cx="858.04236"
+       gradientTransform="matrix(1.215027,1.531577e-24,1.464684e-23,1.266667,-839.1924,-490.4894)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient25163"
+       xlink:href="#linearGradient2893"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient25157">
+      <stop
+         id="stop25159"
+         offset="0"
+         style="stop-color:white;stop-opacity:0;" />
+      <stop
+         id="stop25161"
+         offset="1"
+         style="stop-color:black;stop-opacity:0.64583331;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient25147">
+      <stop
+         id="stop25149"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.3137255;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.25098041;"
+         offset="0.19"
+         id="stop25151" />
+      <stop
+         id="stop25153"
+         offset="0.60000002"
+         style="stop-color:#6b6b6b;stop-opacity:0.1254902;" />
+      <stop
+         id="stop25155"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0.1254902;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="808"
+     inkscape:window-width="1152"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="168.06188"
+     inkscape:cy="259.17398"
+     inkscape:window-x="481"
+     inkscape:window-y="203"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-maximized="0" />
+  <desc
+     id="desc22">Coat of Arms of Canton of Freiburg (Fribourg)</desc>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Fond écu"
+     style="display:inline;opacity:1"
+     sodipodi:insensitive="true">
+    <path
+       id="path1337"
+       d="M 1.5001513,1.49998 V 460.3679 C 1.5001513,626.6785 135.81471,761.5 301.50014,761.5 467.18558,761.5 601.50015,626.6785 601.50015,460.3679 V 1.49998 Z"
+       style="fill:#2b5df2;fill-opacity:1;stroke:#000000;stroke-width:3.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.54286432;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="M 2.8133876,3.0653315 C 2.8413906,54.897179 2.7576167,106.75012 2.8552514,158.56882 173.4023,328.97983 343.78647,499.77877 514.43689,669.94579 c 21.69958,-20.79103 37.84872,-46.71994 52.31875,-72.8636 21.14765,-39.87138 32.01591,-84.70953 32.66665,-129.77888 0.46289,-15.64907 0.25245,-31.32837 0.23556,-46.96876 C 460.48975,281.20832 321.39032,141.9771 182.17931,2.916482 122.4115,3.0159511 62.478557,2.718239 2.8133876,3.0653315 Z"
+       inkscape:connector-curvature="0"
+       id="path5894" />
+    <path
+       d="m 380.60446,345.87893 -61.29266,-14.82021 -17.81165,60.4911 -17.81165,-60.4911 -61.29265,14.82021 43.48101,-45.67089 -43.48101,-45.67089 61.29266,14.82021 17.81164,-60.4911 17.81165,60.4911 61.29266,-14.82021 -43.48101,45.67089 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.0471976"
+       sodipodi:arg1="0.52359878"
+       sodipodi:r2="35.623295"
+       sodipodi:r1="91.341782"
+       sodipodi:cy="300.20804"
+       sodipodi:cx="301.50015"
+       sodipodi:sides="6"
+       id="path10297"
+       style="display:inline;fill:#2b5df2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.30874729;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="star" />
+    <path
+       d="m 577.57995,547.6448 -61.29266,-14.82021 -17.81164,60.4911 -17.81165,-60.49111 -61.29266,14.82022 43.48101,-45.67089 -43.48101,-45.67089 61.29266,14.82021 17.81165,-60.4911 17.81165,60.4911 61.29265,-14.82021 -43.48101,45.67089 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.0471976"
+       sodipodi:arg1="0.52359878"
+       sodipodi:r2="35.623295"
+       sodipodi:r1="91.341782"
+       sodipodi:cy="501.97391"
+       sodipodi:cx="498.47565"
+       sodipodi:sides="6"
+       id="path10297-4"
+       style="display:inline;opacity:1;fill:#2b5df2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.30874729;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="star" />
+    <path
+       d="M 183.51474,156.94765 122.22208,142.12744 104.41044,202.61854 86.59879,142.12743 25.306135,156.94765 68.787144,111.27675 25.306135,65.605865 86.598793,80.426077 104.41044,19.934975 122.22209,80.426079 183.51474,65.605866 140.03373,111.27676 Z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.0471976"
+       sodipodi:arg1="0.52359878"
+       sodipodi:r2="35.623295"
+       sodipodi:r1="91.341782"
+       sodipodi:cy="111.27676"
+       sodipodi:cx="104.41044"
+       sodipodi:sides="6"
+       id="path10297-5"
+       style="display:inline;opacity:1;fill:#2b5df2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.30874729;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="star" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Meubles"
+     style="display:inline;opacity:1"
+     sodipodi:insensitive="true">
+    <g
+       id="g25173"
+       inkscape:label="Fond écu"
+       transform="translate(581.6022,605.4773)" />
+    <g
+       id="g25188"
+       inkscape:label="Reflet final"
+       style="display:inline"
+       transform="translate(581.6022,605.4773)" />
+    <g
+       id="g25190"
+       inkscape:label="Contour final"
+       style="display:inline"
+       transform="translate(581.6022,605.4773)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Reflet final"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:url(#radialGradient3236);fill-opacity:1"
+       d="M 1.5,1.5 V 460.3679 C 1.5,626.67854 135.81454,761.5 301.49993,761.5 467.1854,761.5 601.5,626.67854 601.5,460.3679 V 1.5 Z"
+       id="path2346"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Contour final"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1.5,1.5 V 460.36794 C 1.5,626.67854 135.81454,761.5 301.49993,761.5 467.1854,761.5 601.5,626.67854 601.5,460.36794 V 1.5 Z"
+       id="path3239"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

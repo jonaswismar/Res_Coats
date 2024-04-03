@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="520" height="585" viewBox="0,0 100,112.5">
+  <title>Wappen von Bezirks Rheinfelden</title>
+  <desc>Wappen des Schweizer Bezirks Rheinfelden, Kanton Aargau</desc>
+  <defs>
+    <clipPath id="cpSchild"> <path d="M 2,2 H 98 V 62.5 A 48,48 0 0,1 2,62.5 z" /> </clipPath>
+  </defs>
+  <path d="M 1,1 H 99 V 62.5 A 49,49 0 0,1 1,62.5 z" stroke="black" stroke-width="2" fill="#fcdb00" />
+  <path d="M 0,1.5 H 100 V 19.75 H 0 V 38 H 100 V 56.25 H 0 V 74.5 H 100 V 92.75 H 0" stroke="black" stroke-width="1" fill="#f00000" clip-path="url(#cpSchild)" />
+  <g id="stern3">
+    <path d="M 16.85,7.767 L 18.5,4 20.15,7.767 24.251,7.321 21.8,10.625 24.251,13.929 20.15,13.483 18.5,17.25 16.85,13.483 12.749,13.929 15.2,10.625 12.749,7.321 z"
+          id="stern" stroke="black" stroke-width="0.7" fill="#fcdb00" />
+    <use x="31.5" xlink:href="#stern" />
+    <use x="63" xlink:href="#stern" />
+  </g>
+  <use y="36.5" xlink:href="#stern3" />
+  <use y="73" xlink:href="#stern3" />
+</svg>

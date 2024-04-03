@@ -1,0 +1,42 @@
+<svg width="600" height="746.8" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:date>07-AUG-2006</dc:date>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>Jérôme BLUM (wagner51)</dc:title>
+					</cc:Agent>
+				</dc:creator>
+				<cc:license rdf:resource="http://creativecommons.org/licenses/GPL/2.0/"/>
+				<dc:coverage/>
+				<dc:description>Gabarit pour le Projet:Blasons de WIkipédia</dc:description>
+				<dc:subject>
+					<rdf:Bag>
+						<rdf:li>blason suisse modèle gabarit projet blasons</rdf:li>
+					</rdf:Bag>
+				</dc:subject>
+				<dc:language>fr</dc:language>
+				<dc:title/>
+			</cc:Work>
+			<cc:License rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+				<cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+				<cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+				<cc:requires rdf:resource="http://web.resource.org/cc/Notice"/>
+				<cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+				<cc:requires rdf:resource="http://web.resource.org/cc/ShareAlike"/>
+				<cc:requires rdf:resource="http://web.resource.org/cc/SourceCode"/>
+			</cc:License>
+		</rdf:RDF>
+	</metadata>
+	<desc>Coat of Arms of Canton of Freiburg (Fribourg)</desc>
+	<path d="m594.9 242c0 273.3-100.6 425.1-294.9 499.3-193.2-74.5-294.9-226.1-294.9-499.3v-236.9h589.8z" fill="#1c63b7" stroke="#000" stroke-width="10.2"/>
+	<g transform="translate(3.6 3.6)" stroke="#000">
+		<path d="m140 431.8c-8.934 20.66-13.89 43.44-13.89 67.37 0 93.89 76.22 170.1 170.1 170.1 93.92 0 170.1-76.2 170.1-170.1 0-23.93-4.741-46.71-13.67-67.37-13.44 74.78-77.83 133.1-156.4 132.3-77.45-0.76-143.1-58.76-156.4-132.3z" fill="#fcdb00" stroke-linejoin="round" stroke-width="4.5"/>
+		<polygon id="polygon2528_4_" transform="matrix(.9807 0 0 .9807 5.797 -.04413)" points="126.1 307.7 149.2 236.5 172.4 307.7 247.2 307.7 186.7 351.7 209.8 422.9 149.2 378.9 88.64 422.9 111.8 351.7 51.2 307.7" fill="#fcdb00" stroke-miterlimit="20" stroke-width="4.589"/>
+		<path d="m359.1 60.48c-58.52 0-62.68 62.2-62.68 62.2s-4.153-62.2-62.68-62.2c-58.52 0-62.68 55.5-62.68 62.2 0 25.27 5.615 49.72 65.48 88.2 59.87 38.48 59.87 59.28 59.87 59.28s0-20.8 59.87-59.28c59.87-38.49 65.48-62.93 65.48-88.2 2e-3 -6.708-4.151-62.2-62.68-62.2z" fill="#f00000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="20" stroke-width="4.5"/>
+		<polygon transform="matrix(.9807 0 0 .9807 294.4 -.04413)" points="51.2 307.7 126.1 307.7 149.2 236.5 172.4 307.7 247.2 307.7 186.7 351.7 209.8 422.9 149.2 378.9 88.64 422.9 111.8 351.7" fill="#fcdb00" stroke-miterlimit="20" stroke-width="4.589"/>
+	</g>
+</svg>
