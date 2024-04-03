@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="603"
+   height="763"
+   id="svg20"
+   sodipodi:docname="Giffers-coat_of_arms.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview97"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="0.35910878"
+     inkscape:cx="687.51778"
+     inkscape:cy="71.27689"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg20" />
+  <desc
+     id="desc22">Coat of Arms of Canton of Freiburg (Fribourg)</desc>
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>07-AUG-2006</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jérôme BLUM (wagner51)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:coverage />
+        <dc:description>Gabarit pour le Projet:Blasons de WIkipédia</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>blason suisse modèle gabarit projet blasons</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:language>fr</dc:language>
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs29">
+    <linearGradient
+       id="linearGradient2893">
+      <stop
+         id="stop2895"
+         style="stop-color:#ffffff;stop-opacity:0.3137255"
+         offset="0" />
+      <stop
+         id="stop2897"
+         style="stop-color:#ffffff;stop-opacity:0.25098041"
+         offset="0.19" />
+      <stop
+         id="stop2901"
+         style="stop-color:#6b6b6b;stop-opacity:0.1254902"
+         offset="0.60000002" />
+      <stop
+         id="stop2899"
+         style="stop-color:#000000;stop-opacity:0.1254902"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="858.04236"
+       cy="579.93323"
+       r="300"
+       fx="858.04236"
+       fy="579.93323"
+       id="radialGradient3236"
+       xlink:href="#linearGradient2893"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.215027,0,0,1.266667,-1390.4273,-477.3199)" />
+  </defs>
+  <rect
+     style="fill:#fcef3c;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     id="rect116"
+     width="280.47577"
+     height="379.1792"
+     x="19.184523"
+     y="6.0335751"
+     rx="0"
+     ry="0" />
+  <rect
+     style="fill:#e20909;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     id="rect116-3"
+     width="280.47577"
+     height="379.1792"
+     x="299.66028"
+     y="6.0335765"
+     rx="0"
+     ry="0" />
+  <path
+     id="rect116-3-6"
+     style="fill:#e20909;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="m 19.184275,385.21192 v 114.72461 a 280.47949,288.87384 0 0 0 279.472655,264.41992 280.47949,288.87384 0 0 0 1.00391,-0.004 V 385.21192 Z" />
+  <path
+     id="rect116-3-6-6"
+     style="fill:#fcef3c;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="m 299.66084,385.21192 v 379.14062 a 280.47949,288.87384 0 0 0 279.47459,-288.86914 280.47949,288.87384 0 0 0 -0.0215,-3.48242 h 1.0215 v -86.78906 z" />
+  <g
+     id="g380"
+     transform="translate(-609.84307,5.5693431)">
+    <path
+       id="path99-9-5-5"
+       style="fill:#e20909;fill-opacity:1;stroke:#000000;stroke-width:1.05195;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       d="m 631.0821,2.5926215 a 150.28263,187.34527 0 0 1 138.43647,186.7588685 150.28263,187.34527 0 0 1 0,0.22231 A 150.28263,187.34527 0 0 1 631.0821,2.8129766 a 150.28263,187.34527 0 0 1 0,-0.2203551 z" />
+    <path
+       id="path99-9-5-5-9"
+       style="fill:#e20909;fill-opacity:1;stroke:#000000;stroke-width:1.05195;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       d="M 908.7967,1.1882467 A 150.28263,187.34527 0 0 0 770.36023,187.94711 a 150.28263,187.34527 0 0 0 0,0.22231 150.28263,187.34527 0 0 0 138.43647,-186.7608183 150.28263,187.34527 0 0 0 0,-0.220355 z" />
+    <path
+       id="path99-9-5-5-9-1"
+       style="fill:#e20909;fill-opacity:1;stroke:#000000;stroke-width:1.05195;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       d="m 769.56312,191.93825 a 150.28263,187.34527 0 0 0 -138.43646,186.75886 150.28263,187.34527 0 0 0 0,0.22231 150.28263,187.34527 0 0 0 138.43646,-186.76082 150.28263,187.34527 0 0 0 0,-0.22035 z" />
+    <path
+       id="path99-9-5-5-9-4"
+       style="fill:#e20909;fill-opacity:1;stroke:#000000;stroke-width:1.05195;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       d="m 771.75257,190.54591 a 150.28263,187.34527 0 0 1 138.43646,186.75886 150.28263,187.34527 0 0 1 0,0.22231 150.28263,187.34527 0 0 1 -138.43646,-186.76081 150.28263,187.34527 0 0 1 0,-0.22036 z" />
+  </g>
+  <g
+     id="g380-6"
+     transform="translate(-330.65746,6.2655096)"
+     style="fill:#fcef3c;fill-opacity:1">
+    <path
+       id="path99-9-5-5-3"
+       style="fill:#fcef3c;fill-opacity:1;stroke:#000000;stroke-width:1.05195;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       d="m 631.0821,2.5926215 a 150.28263,187.34527 0 0 1 138.43647,186.7588685 150.28263,187.34527 0 0 1 0,0.22231 A 150.28263,187.34527 0 0 1 631.0821,2.8129766 a 150.28263,187.34527 0 0 1 0,-0.2203551 z" />
+    <path
+       id="path99-9-5-5-9-2"
+       style="fill:#fcef3c;fill-opacity:1;stroke:#000000;stroke-width:1.05195;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       d="M 908.7967,1.1882467 A 150.28263,187.34527 0 0 0 770.36023,187.94711 a 150.28263,187.34527 0 0 0 0,0.22231 150.28263,187.34527 0 0 0 138.43647,-186.7608183 150.28263,187.34527 0 0 0 0,-0.220355 z" />
+    <path
+       id="path99-9-5-5-9-1-9"
+       style="fill:#fcef3c;fill-opacity:1;stroke:#000000;stroke-width:1.05195;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       d="m 769.56312,191.93825 a 150.28263,187.34527 0 0 0 -138.43646,186.75886 150.28263,187.34527 0 0 0 0,0.22231 150.28263,187.34527 0 0 0 138.43646,-186.76082 150.28263,187.34527 0 0 0 0,-0.22035 z" />
+    <path
+       id="path99-9-5-5-9-4-6"
+       style="fill:#fcef3c;fill-opacity:1;stroke:#000000;stroke-width:1.05195;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       d="m 771.75257,190.54591 a 150.28263,187.34527 0 0 1 138.43646,186.75886 150.28263,187.34527 0 0 1 0,0.22231 150.28263,187.34527 0 0 1 -138.43646,-186.76081 150.28263,187.34527 0 0 1 0,-0.22036 z" />
+  </g>
+  <path
+     id="path99-9-5-5-36"
+     style="fill:#e20909;fill-opacity:1;stroke:#000000;stroke-width:1.05195;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="m 299.0323,387.57345 a 150.28263,187.34527 0 0 1 138.43643,186.75887 150.28263,187.34527 0 0 1 0,0.22231 150.28263,187.34527 0 0 1 -138.43643,-186.76082 150.28263,187.34527 0 0 1 0,-0.22036 z" />
+  <path
+     id="path99-9-5-5-9-0"
+     style="fill:#e20909;fill-opacity:1;stroke:#000000;stroke-width:1.05195;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="m 576.74693,386.16908 a 150.28263,187.34527 0 0 0 -138.4365,186.75886 150.28263,187.34527 0 0 0 0,0.22231 150.28263,187.34527 0 0 0 138.4365,-186.76082 150.28263,187.34527 0 0 0 0,-0.22035 z" />
+  <path
+     id="path99-9-5-5-9-1-1"
+     style="fill:#e20909;fill-opacity:1;stroke:#000000;stroke-width:1.05195;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="m 437.51333,576.91908 a 150.28263,187.34527 0 0 0 -138.43647,186.75886 150.28263,187.34527 0 0 0 0,0.22231 150.28263,187.34527 0 0 0 138.43647,-186.76082 150.28263,187.34527 0 0 0 0,-0.22035 z" />
+  <path
+     id="path99-9-5-5-7"
+     style="fill:#fcef3c;fill-opacity:1;stroke:#000000;stroke-width:1.05195;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="m 20.565145,386.18112 a 150.28263,187.34527 0 0 1 138.436465,186.75887 150.28263,187.34527 0 0 1 0,0.22231 150.28263,187.34527 0 0 1 -138.436465,-186.76082 150.28263,187.34527 0 0 1 0,-0.22036 z" />
+  <path
+     id="path99-9-5-5-9-8"
+     style="fill:#fcef3c;fill-opacity:1;stroke:#000000;stroke-width:1.05195;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="m 298.27974,384.77675 a 150.28263,187.34527 0 0 0 -138.43647,186.75886 150.28263,187.34527 0 0 0 0,0.22231 150.28263,187.34527 0 0 0 138.43647,-186.76082 150.28263,187.34527 0 0 0 0,-0.22035 z" />
+  <path
+     id="path99-9-5-5-9-4-67"
+     style="fill:#fcef3c;fill-opacity:1;stroke:#000000;stroke-width:1.05195;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="m 161.23561,574.13441 a 150.28263,187.34527 0 0 1 138.43646,186.75886 150.28263,187.34527 0 0 1 0,0.22231 150.28263,187.34527 0 0 1 -138.43646,-186.76081 150.28263,187.34527 0 0 1 0,-0.22036 z" />
+  <path
+     id="rect116-3-6-63"
+     style="fill:#fcef3c;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="m 159.0456,575.52638 a 150.28263,187.34527 0 0 0 -96.134755,56.46485 280.47949,288.87384 0 0 0 58.671865,67.51756 150.28263,187.34527 0 0 0 37.46289,-123.76171 150.28263,187.34527 0 0 0 0,-0.2207 z" />
+  <path
+     id="rect116-3-6-63-3"
+     style="fill:#e20909;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="m 439.25013,574.30625 a 150.28263,187.34527 0 0 1 96.1347,56.46485 280.47949,288.87384 0 0 1 -58.6719,67.51755 150.28263,187.34527 0 0 1 -37.4628,-123.7617 150.28263,187.34527 0 0 1 0,-0.2207 z" />
+  <g
+     id="layer3"
+     style="display:inline"
+     transform="matrix(0.93734489,0,0,1,533.62933,-8.3540149)">
+    <path
+       d="M -549.73489,14.669496 V 473.5374 c 0,166.31064 134.31454,301.1321 299.99993,301.1321 165.685474,0 300.000074,-134.82146 300.000074,-301.1321 V 14.669496 Z"
+       id="path2346"
+       style="fill:url(#radialGradient3236);fill-opacity:1" />
+  </g>
+</svg>

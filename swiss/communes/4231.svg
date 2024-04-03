@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="520" height="585" viewBox="0,0 100,112.5">
+  <title>Wappen von Dietwil</title>
+  <desc>Wappen der Schweizer Gemeinde Dietwil, Kanton Aargau</desc>
+  <g stroke="black" stroke-width="2">
+    <path d="M 1,1 H 99 V 62.5 A 49,49 0 0,1 1,62.5 z" fill="#0093dd" />
+    <path d="M 1,1 H 99 V 59 H 1 z" fill="white" />
+    <path d="M 42,30 h 16 M 50,22 v 16" stroke-width="5" />
+    <g id="beschlag2">
+      <path d="M 37.3,9.7 c 2.1,-2.5 4.8,-4.1 7.5,-2.1 1.4,1.2 2.6,3.5 1.1,6.7 -1.8,4.3 .6,7.9 4.1,7.9 3.5,0 5.9,-3.6 4.1,-7.9 -1.5,-3.2 -.3,-5.5 1.1,-6.7 2.7,-2 5.4,-.4 7.5,2.1" id="beschlag" stroke-width="4" fill="none" />
+      <use transform="rotate(90,50,30)" xlink:href="#beschlag" />
+    </g>
+    <use transform="rotate(180,50,30)" xlink:href="#beschlag2" />
+  </g>
+</svg>
+

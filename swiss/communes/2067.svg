@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="406" height="456" xmlns="http://www.w3.org/2000/svg">
+<path d="M3 3v250c0 110.5 89.5 200 200 200s200-89.5 200-200V3z" fill="#fcdb00" />
+<g stroke="#000">
+<path d="M135.33 3v148.79H3V253c0 11.64 1.049 23.028 2.955 34.121h129.38v154.12c21.135 7.593 43.91 11.754 67.666 11.754s46.531-4.16 67.666-11.754v-154.12h129.38c1.906-11.094 2.955-22.482 2.955-34.121V151.79h-132.33V3h-135.33z" fill="#1c63b7" stroke-linecap="square" stroke-width="3"/>
+<path d="M135.33 151.79v135.33h135.33V151.79H135.33z" fill="#fcdb00" stroke-linecap="square" stroke-width="3"/>
+<path d="M3 3v250c0 110.5 89.5 200 200 200s200-89.5 200-200V3z" fill="none" stroke-width="6" />
+</g>
+</svg>

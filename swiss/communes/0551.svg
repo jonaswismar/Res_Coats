@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" width="603px" height="763px" viewBox="0 0 603 763" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path id="s" d="m1.5,1.5v460c0,165.686 134.314,300 300,300c165.685,0 300-134.314 300-300v-460z"/>
+  <radialGradient id="a" cx="0" cy="0" r="300" gradientTransform="matrix(1.215 0 0 1.2667 203.3286 244.107331)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff" stop-opacity=".31373" offset="0"/>
+    <stop stop-color="#fff" stop-opacity=".251" offset=".19"/>
+    <stop stop-color="#6b6b6b" stop-opacity=".1255" offset=".6"/>
+    <stop stop-opacity=".1255" offset="1"/>
+  </radialGradient>
+  <use xlink:href="#s" fill="#fff"/>
+  <path d="m1.5,1.5 300,760 300-760z"/>
+  <path fill="#fff" stroke="#000" stroke-width="5.66" d="m238.45 29.061c9.2521 18.044 24.382 25.878 23.877 58.188v78.351h-90.908c-29.474 0.41564-37.644-5.3042-53.59-22.285v113.19c19.834-22.2 33.3-20.626 56.597-20.87h87.902v296.6c0.41564 29.474-5.3044 31.984-22.285 47.93h121.19c-22.2-19.834-20.626-27.64-20.87-50.937l-0.17687-293.77h82.201c32.546-0.20556 45.089 7.8716 59.78 19.632v-113.19c-18.044 9.2521-24.638 23.142-58.011 23.7h-83.969v-76.582c-2.3313-32.014 7.695-45.266 19.455-59.957h-121.19z"/>
+  <use xlink:href="#s" fill="url(#a)" stroke="#000" stroke-width="3"/>
+</svg>
