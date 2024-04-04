@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-   xmlns="http://www.w3.org/2000/svg"
-   width="520" height="585" viewBox="0,0 100,112.5">
-  <title>Wappen von Schlierbach</title>
-  <desc>Wappen der Schweizer Gemeinde Schlierbach, Kanton Luzern</desc>
-  <defs>
-    <clipPath id="cpSchild"> <rect width="100" height="69" /> </clipPath>
-  </defs>
-  <path d="M 1,1 H 99 V 62.5 a 49,49 0 0,1 -98,0 z" stroke="black" stroke-width="2" fill="white" />
-  <path d="M 1,42 V 62.5 a 49,49 0 0,0 98,0 V 42" clip-path="url(#cpSchild)" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="585" viewBox="0 0 100 112.5"><defs><clipPath id="a"><path d="M0 0h100v69H0z"/></clipPath></defs><path d="M1 1h98v61.5a49 49 0 0 1-98 0z" stroke="#000" stroke-width="2" fill="#fff"/><path d="M1 42v20.5a49 49 0 0 0 98 0V42" clip-path="url(#a)"/></svg>

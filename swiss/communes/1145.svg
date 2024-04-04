@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-   xmlns="http://www.w3.org/2000/svg"
-   width="520" height="585" viewBox="0,0 100,112.5">
-  <title>Wappen von Ufhusen</title>
-  <desc>Wappen der Schweizer Gemeinde Ufhusen, Kanton Luzern</desc>
-  <path d="M 1,1 V 62.5 a 49,49 0 0,0 98,0 V 1 z" stroke="black" stroke-width="2" fill="white" />
-  <path d="M 14,91 v -5 h 4 v -62 h -4 v -11 h 5 v 6 h 5 v -6 h 5 v 6 h 5 v -6 h 5 v 11 h -4 v 45 h 10 v -9 h 10 v 9 h 10 v -45 h -4 v -11 h 5 v 6 h 5 v -6 h 5 v 6 h 5 v -6 h 5 v 11 h -5 v 62 h 5 v 5" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="585" viewBox="0 0 100 112.5"><path d="M1 1v61.5a49 49 0 0 0 98 0V1z" stroke="#000" stroke-width="2" fill="#fff"/><path d="M14 91v-5h4V24h-4V13h5v6h5v-6h5v6h5v-6h5v11h-4v45h10v-9h10v9h10V24h-4V13h5v6h5v-6h5v6h5v-6h5v11h-5v62h5v5"/></svg>

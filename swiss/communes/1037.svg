@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-   xmlns="http://www.w3.org/2000/svg"
-   width="520" height="585" viewBox="0,0 100,112.5">
-  <title>Wappen von Rain</title>
-  <desc>Wappen der Schweizer Gemeinde Rain, Kanton Luzern</desc>
-  <defs>
-    <clipPath id="cpSchild"> <path d="M 2,2 V 62.5 a 48,48 0 0,0 96,0 V 2 z" /> </clipPath>
-  </defs>
-  <path d="M 1,1 V 62.5 a 49,49 0 0,0 98,0 V 1 z" stroke="black" stroke-width="2" fill="#0093dd" />
-  <g stroke="black" stroke-width="1" clip-path="url(#cpSchild)">
-    <rect width="50" height="112" fill="white" />
-    <path d="M 20,0 L 120,100 100,120 -20,0" fill="#f00000" />
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="585" viewBox="0 0 100 112.5"><defs><clipPath id="a"><path d="M2 2v60.5a48 48 0 0 0 96 0V2z"/></clipPath></defs><path d="M1 1v61.5a49 49 0 0 0 98 0V1z" stroke="#000" stroke-width="2" fill="#0093dd"/><g stroke="#000" clip-path="url(#a)"><path fill="#fff" d="M0 0h50v112H0z"/><path d="m20 0 100 100-20 20L-20 0" fill="#f00000"/></g></svg>

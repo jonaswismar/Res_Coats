@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 width="603px" height="763px">
-<path fill="#FFF" d="M1.5,1.5V460c0,166.312,134.314,301.5,300,301.5c165.686,0,300-135.188,300-301.5V1.5H1.5z"/>
-<circle cx="-200" cy="13" r="500"/>
-<circle cx="800" cy="13" r="500"/>
-<rect x="276.5" y="0" width="50" height="50"/>
-<radialGradient id="SVGID_1_" cx="205" cy="242" r="370" gradientUnits="userSpaceOnUse">
-	<stop  offset="0" style="stop-color:#FFF;stop-opacity:0.3137"/>
-	<stop  offset="0.19" style="stop-color:#FFF;stop-opacity:0.251"/>
-	<stop  offset="0.6" style="stop-color:#6B6B6B;stop-opacity:0.1255"/>
-	<stop  offset="1" style="stop-color:#000;stop-opacity:0.1255"/>
-</radialGradient>
-<path fill="url(#SVGID_1_)" stroke="#000000" stroke-width="3" d="M1.5,1.5V460c0,166.312,134.314,301.5,300,301.5
-	c165.686,0,300-135.188,300-301.5V1.5H1.5z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="603" height="763"><path fill="#FFF" d="M1.5 1.5V460c0 166.312 134.314 301.5 300 301.5s300-135.188 300-301.5V1.5H1.5z"/><circle cx="-200" cy="13" r="500"/><circle cx="800" cy="13" r="500"/><path d="M276.5 0h50v50h-50z"/><radialGradient id="a" cx="205" cy="242" r="370" gradientUnits="userSpaceOnUse"><stop offset="0" style="stop-color:#fff;stop-opacity:.3137"/><stop offset=".19" style="stop-color:#fff;stop-opacity:.251"/><stop offset=".6" style="stop-color:#6b6b6b;stop-opacity:.1255"/><stop offset="1" style="stop-color:#000;stop-opacity:.1255"/></radialGradient><path fill="url(#a)" stroke="#000" stroke-width="3" d="M1.5 1.5V460c0 166.312 134.314 301.5 300 301.5s300-135.188 300-301.5V1.5H1.5z"/></svg>

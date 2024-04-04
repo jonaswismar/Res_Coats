@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-   xmlns="http://www.w3.org/2000/svg"
-   width="520" height="585" viewBox="0 0 100 112.5">
-  <title>Wappen von Knutwil</title>
-  <desc>Wappen der Schweizer Gemeinde Knutwil, Kanton Luzern</desc>
-  <defs>
-    <clipPath id="cpSchild"> <path d="M 2,2 H 98 V 62.5 a 48,48 0 0,1 -96,0 z" /> </clipPath>
-  </defs>
-  <g stroke="black" stroke-width="2">
-    <path d="M 99,1 V 62.5 a 49,49 0 0,1 -98,0 V 1" fill="#0093dd" />
-    <path d="M 1,1 V 71 H 99 V 1" fill="white" clip-path="url(#cpSchild)" />
-    <path d="M 1,1 V 36 H 99 V 1 z" fill="#f00000" />
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="585" viewBox="0 0 100 112.5"><defs><clipPath id="a"><path d="M2 2h96v60.5a48 48 0 0 1-96 0z"/></clipPath></defs><g stroke="#000" stroke-width="2"><path d="M99 1v61.5a49 49 0 0 1-98 0V1" fill="#0093dd"/><path d="M1 1v70h98V1" fill="#fff" clip-path="url(#a)"/><path d="M1 1v35h98V1z" fill="#f00000"/></g></svg>
