@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- author: GregorBungensheim 2. März 2021 -->
+<svg xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	viewBox="0 0 774 1024" height="1024" width="774" version="1.1">
+
+	<def>
+		<path id="stern"
+		d="M 0,-2.103 0.472,-0.65 2,-.65 0.764,0.248 1.236,1.701  0,0.803 -1.236,1.701 -0.764,0.248 -2,-.65 -.472,-.65 z" />
+		<path id="stern2"
+		d="M 0,-2.103 1.236,1.701 -2,-.65 2,-.65 -1.236,1.701 z" />
+	</def>
+	<path d="M 12,12 h 750 v600 a 375,400 0 0 1 -750,0 z"
+		style="fill:white" />
+	<path id="tanne" d="M 387,840 q 29,-36 78,-13 a 92,92 0 0 1 76,-91 v -64 q -110,-25 -125,-138 45,41 93,37 -58,-36 -84,-122 38,26 70,25 -45,-24 -57,-97 38,26 68,24 -42,-29 -59,-102 38,25 70,19 -36,-40 -39,-95 26,18 48,12 -24,-30 -25,-72 28,18 39,10 -27,-32 -20,-68 11,9 25,17 3,-42 20,-64
+	17,22 20,64 14,-8 25,-17 7,36 -20,68 11,8 39,-10 1,42 -25,72 22,6 48,-12 -3,45 -39,95 32,6 70,-19 -17,73 -59,102 30,2 68,-24 -12,73 -57,97 32,1 70,-25 -26,86 -84,122 48,4 93,-37 -15,113 -125,138 v 65 a 92,92 0 0 1 65,73 q 25,-15 53,11
+	a 375,400 0 0 1 -320,191" style="stroke-width:6; stroke:black; fill:green; stroke-linecap:round"/>
+	<path d="M 12,12 h 375 v1000 a 375,400 0 0 1 -375,-400 z"
+		style="fill:red" />
+	<use xlink:href="#stern" style="fill:white; stroke:black; stroke-width:.07" transform="matrix(82 0 0 82 200 310)"/>
+	<use xlink:href="#stern" style="fill:white; stroke:black; stroke-width:.07" transform="matrix(82 0 0 82 200 670)"/>
+	<path d="M 12,12 h 750 v600 a 375,400 0 0 1 -750,0 z"
+		style="stroke:black; stroke-width:18; fill:none" />
+
+</svg>

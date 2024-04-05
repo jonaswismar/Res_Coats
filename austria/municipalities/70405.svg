@@ -1,0 +1,19 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="502" width="432" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs></defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(0,30)">
+  <path fill="#FFF" d="m6-24,420,0,0,290c0,100-95,200-210,200s-210-100-210-200z"/>
+  <path stroke-linejoin="round" d="m101.05-24,45,0,0,45,45,0,0-45,50,0,0,45,45,0,0-45,45,0,0,160-55,0,0-25c0-20-30-20-30,0v25h-15v-25c0-20-30-20-30,0v25h-15v-25c0-20-30-20-30,0v25h-55z" stroke-dashoffset="0" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-width="3" fill="#da121a"/>
+  <path stroke-linejoin="round" d="m216,166-20,20,0,165-30,0,0,25c35-20,45,5,20,45h60c-25-40-15-65,20-45v-25h-30v-165zm-95-20,190,0,0,296c-65,32-125,32-190,0z" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="#da121a"/>
+  <path stroke-linejoin="miter" d="m6-24,420,0,0,290c0,100-95,200-210,200s-210-100-210-200z" stroke="#000" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="6" fill="none"/>
+ </g>
+</svg>

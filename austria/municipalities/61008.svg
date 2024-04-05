@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-105 0 412 492">
+<g stroke="#000">
+<path d="m-99 6v280a200 200 0 0 0 400 0v-280z" stroke-width="10"/>
+<path d="m101 342 100-102 92 93c8-37 5-70 5-110l-97-99-100 102m-198-218v278a198 198 0 0 0 198 198v-476z" stroke-width="6" fill="#fff"/>
+<circle cy="99" r="45"/><circle cy="225" r="45"/><circle cy="351" r="45"/></g>
+</svg>

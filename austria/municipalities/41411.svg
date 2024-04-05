@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="607.84912"
+   viewBox="0 0 500 607.84912"
+   width="500"
+   version="1.1"
+   id="svg3269"
+   sodipodi:docname="Coat_of_arms_Kopfing.svg"
+   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3273" />
+  <sodipodi:namedview
+     id="namedview3271"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="1.7323378"
+     inkscape:cx="192.22579"
+     inkscape:cy="303.92456"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3269" />
+  <g
+     transform="matrix(1.9684715 0 0 1.9684715 -133.33269 -489.60719)"
+     id="g3267">
+    <path
+       d="m72.798246 253.78563.205803 170.77948c0 69.74745 54.252801 126.51205 121.604221 127.88498v.006c.0427-.00078.0853-.005.12794-.006.0427.00081.0852.005.12795.006v-.006c67.35145-1.37293 121.60421-58.13751 121.60421-127.88498l.20582-170.77948z"
+       fill="#fcdd09"
+       id="path3253"
+       style="fill:#f5c801" />
+    <path
+       d="m316.56604 347.67959.0788-93.90871h-243.831778l.07878 93.90871z"
+       id="path3255"
+       style="fill:#000000;stroke:none" />
+    <g
+       stroke="#000"
+       id="g3263">
+      <path
+         d="m168.69133 413.70715 37.60231-12.69966-37.4604-12.84155-12.69966-37.4604-12.84153 37.4604-37.46042 12.69966 37.31852 12.84155 12.69964 37.46039z"
+         fill="#da121a"
+         fill-rule="evenodd"
+         stroke-width="2.270328"
+         id="path3257"
+         style="fill:#d50b2b;stroke:#000000;stroke-opacity:1" />
+      <path
+         d="m104.48362 508.86853c1.46006 1.70007 2.63089 3.66053 4.17547 5.27843 5.50909 5.77063 11.56095 10.9795 18.04118 15.59893 6.48024 4.61943 13.35209 8.6724 20.64101 11.97494 3.25789 1.47611 6.84576 2.27735 10.24172 3.46642 22.66536-60.29002 44.37849-44.8152 74.60701-60.74128 43.30719-22.81669 30.43945-92.46189 83.82455-93.27845-46.2679-21.06086-53.13196 34.31132-92.64819 56.72338-32.90322 18.66141-71.81808-6.94743-118.88275 60.97763z"
+         fill="#da121a"
+         fill-rule="evenodd"
+         stroke-width="2.521039"
+         id="path3259"
+         style="fill:#d50b2b;stroke:#000000;stroke-opacity:1" />
+      <path
+         d="m194.82531 552.45538c67.35142-1.37293 121.64306-58.1428 121.64306-127.89027l.20582-170.77948h-243.875944l.205803 170.77948c0 69.74745 54.469821 126.51734 121.821261 127.89027z"
+         fill="none"
+         stroke-dashoffset="4.3"
+         stroke-linecap="round"
+         stroke-width="5.042079"
+         id="path3261"
+         style="stroke:#000000;stroke-opacity:1" />
+    </g>
+    <path
+       d="m113.70117 257.63122-40.33663 44.35454 40.33663 44.43331 40.41541-44.43331zm80.9096 0-40.41541 44.35454 40.41541 44.43331 40.41541-44.43331zm80.9096 0-40.41541 44.35454 40.41541 44.43331 40.33662-44.43331z"
+       fill="#fcdd09"
+       id="path3265"
+       style="fill:#f5c801" />
+  </g>
+</svg>

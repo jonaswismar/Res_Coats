@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="400" width="375" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-378 -403 756 806">
+	<defs>
+		<clipPath id="shield_cut"> 
+			<path id="shield" d="m0 400c-200-75-375-260-375-500v-300h750v300c0 240-175 428.9-375 500" stroke-linecap="round" />
+		</clipPath> 
+	</defs>
+	<use xlink:href="#shield" fill="#fff"/>
+	<g clip-path="url(#shield_cut)" stroke="#000" stroke-width="3">
+		<rect x="-375" y="-400" width="750" height="100" fill="#d0040f"/>
+		<rect x="-375" y="-200" width="750" height="100" fill="#d0040f"/>
+		<rect x="-375" y="100" width="750" height="100" fill="#d0040f"/>
+		<rect x="-375" y="300" width="750" height="100" fill="#d0040f"/>
+		<path fill="#02267e" fill-rule="evenodd" d="M-375,400v-800l750,800v-800l-750,800z"/>
+	</g>
+	<use xlink:href="#shield" fill="none" stroke="#000" stroke-width="6"/>
+</svg>

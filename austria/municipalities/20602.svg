@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="665" width="664.38" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs></defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+    <dc:date>03. Feb 2006</dc:date>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Michael Glanznig</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:rights>
+     <cc:Agent>
+      <dc:title/>
+     </cc:Agent>
+    </dc:rights>
+    <dc:description>Baldramsdorf, coat of arms</dc:description>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/"/>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/2.0/at/">
+    <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+    <cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+    <cc:requires rdf:resource="http://web.resource.org/cc/Notice"/>
+    <cc:requires rdf:resource="http://web.resource.org/cc/Attribution"/>
+    <cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+    <cc:requires rdf:resource="http://web.resource.org/cc/ShareAlike"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <g stroke-linejoin="miter" transform="translate(-28.930405,-23.159305)" stroke="#000" stroke-linecap="butt" stroke-dasharray="none" stroke-miterlimit="4">
+  <path d="m39.716,33.945,642.81,0c-12.16,244.6-28.09,396.58-30.31,408.38-30.32,160.49-180.38,234-289.4,235.05-106.87,1.05-268.98-80.39-291.27-234.48-0.649-4.48-18.114-159.58-31.831-408.94z" fill-rule="evenodd" stroke-width="21.57084084" fill="#0180bf"/>
+  <g transform="matrix(0.848812,0,0,0.848812,80.09944,25.8704)" stroke-width="6.25">
+   <path d="M336.58,149.62c22.71-86.085-85.9-113.66-138.38-92.553-137.82,55.413-105.81,169.21-79.41,239.63,4.2426,16.971-11.314,39.598-11.314,39.598l28.284,4.2426c44.131,5.9633,83.782,54.739,93.338,96.874,11.271,65.511-39.005,148.03-72.125,217.08,60.128-56.024,108.15-133.96,123.04-216.37,6.7734,85.796-52.665,177.25-94.752,263.04,86.216-79.166,135.86-182.12,144.25-268.7,16.911,76.839-36.488,173.48-83.439,250.32,102.8-74,126.71-196.38,132.94-270.11,20.783,65.544-19.962,155.83-63.64,224.86,74.752-51.092,119.39-187.35,106.07-260.22,26.967,53.656-10.255,149.52-35.355,210.72,62.846-71.118,88.778-172.03,73.539-243.24,26.702,46.198,6.841,123.51-4.2426,169.71,29.017-49.497,61.987-142.84,36.77-197.99,27.996,36.544,15.548,95.461,8.4853,147.08,28.908-50.676,42.369-118.32,21.213-175.36,23.622,23.946,18.592,73.836,21.213,113.14,15.405-42.231,20.356-83.155,5.6568-140.01,22.951,35.705,20.466,76.307,22.504,97.335,11.7-25.894,13.168-94.881,2.7257-130.39-9.9473-34.035-21.423-95.347-61.165-100.75-55.594-7.558-129.69,135.11-191.81,147.67-92.827,18.767-118.42-121.85-90.31-156.25,24.241-29.67,83.952-44.512,105.92,30.656z" fill-rule="evenodd" fill="#f2d800"/>
+   <path d="M156.98,654.5c76.19-104.66,87.72-147.33,97.58-217.79" fill="none"/>
+   <path d="M190.21,696.21c96-127.28,114.59-222.27,114.55-260.21" fill="none"/>
+   <path d="M250.93,678.54c103.06-115.97,101.86-225.11,103.24-254.56" fill="none"/>
+   <path d="m317.47,636.82c81.853-94.756,90.548-195.41,83.439-237.59" fill="none"/>
+   <path d="M391.68,580.96c69.12-124.46,55.19-196.82,48.08-217.79" fill="none"/>
+   <path d="M463.8,491.86c35.18-106.07,24.08-140.25,12.73-161.22" fill="none"/>
+   <path d="m507.5,444.67c21.042-83.442,12.766-124.7-0.00003-142.84" fill="none"/>
+   <path d="m546.96,384.57c6.8995-72.128-1.3756-83.684-12.728-108.89" fill="none"/>
+   <path d="m573.98,342.66c1.3985-52.485-4.6252-74.777-11.314-93.338" fill="none"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="100%"
+   height="100%"
+   viewBox="0 0 190 235"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <g
+     transform="matrix(1.1360586,0,0,1.1360586,-23.340413,-479.10895)"
+     id="g3180">
+    <path
+       d="M 104.22609,625.72271 C 148.48598,624.79816 184.16363,586.56788 184.16363,539.59819 L 184.29888,424.59098 L 24.036171,424.59098 L 24.171431,539.59819 C 24.171431,586.56787 59.966171,624.79816 104.22609,625.72271 z"
+       id="path3357"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.66200018;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.3;stroke-opacity:1" />
+    <path
+       d="M 76.094086,423.25 L 76.094086,516.12977 L 23.375,516.12977 L 23.375,556.20041 C 29.499906,586.47483 50.416824,610.98347 77.699117,620.91324 L 77.699117,516.9955 L 127.57853,516.9955 L 127.57853,621.22243 C 158.29064,610.43183 181.06077,581.19058 184.125,545.9354 L 184.125,515.88242 L 129.18356,515.88242 L 129.18356,423.25 L 76.094086,423.25 z"
+       id="rect3164"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.66200018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.3;stroke-opacity:1" />
+  </g>
+  <path
+     d="M 460.56038,618.84092 C 506.20113,617.88753 542.99188,578.46451 542.99188,530.02942 L 543.13135,411.43413 L 377.86864,411.43413 L 378.00812,530.02942 C 378.00812,578.4645 414.91962,617.88753 460.56038,618.84092 z"
+     id="path3170"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.3;stroke-opacity:1" />
+</svg>

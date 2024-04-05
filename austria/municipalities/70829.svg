@@ -1,0 +1,46 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="472" width="392" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(0,-580.36217)">
+  <path d="m6,586.36,380,0,0,260c0,130-85,200-190,200s-190-70-190-200z" fill="#FFF"/>
+  <g id="g4558-7" transform="translate(145.56472,81.063195)">
+   <path stroke-linejoin="miter" d="m90,318,51-77,0,95-9,0,0-9c-15.122-0.86461-28.808-4.2767-42-9z" transform="translate(0,576.36217)" stroke="#000" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="#078930"/>
+   <path fill="#000" d="m192,895.36-51-81,0.0456,99.497,8.2122-0.0188l-0.26-9.48c15.122-0.86461,29.808-4.2767,43-9z"/>
+  </g>
+  <use xlink:href="#g4558-7" transform="translate(1.2629629,-308.72692)" height="476" width="396" y="0" x="0"/>
+  <use xlink:href="#g4558-7" transform="translate(-99.922626,-0.1078527)" height="476" width="396" y="0" x="0"/>
+  <use xlink:href="#g4558-7" transform="translate(-149.19144,-77.69768)" height="476" width="396" y="0" x="0"/>
+  <use xlink:href="#g4558-7" transform="translate(-98.746139,-155.54528)" height="476" width="396" y="0" x="0"/>
+  <use xlink:href="#g4558-7" transform="translate(-50.105249,-77.182133)" height="476" width="396" y="0" x="0"/>
+  <use xlink:href="#g4558-7" transform="translate(0.3400446,-154.51419)" height="476" width="396" y="0" x="0"/>
+  <use xlink:href="#g4558-7" transform="translate(-48.754037,-231.92191)" height="476" width="396" y="0" x="0"/>
+  <use xlink:href="#g4558-7" transform="translate(50.434305,-231.06924)" height="476" width="396" y="0" x="0"/>
+  <g transform="translate(-54.571487,80.977884)">
+   <path stroke-linejoin="miter" d="M94.861,310.66,141,241v95h-9v-9c-10.446-0.59724-20.206-2.41-29.592-5.0309,0,0-7.4572-10.984-7.5474-11.308z" transform="translate(0,576.36217)" stroke="#000" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="#078930"/>
+   <path fill="#000" d="m192,895.36-51-81,0.0456,99.497,8.2122-0.0188l-0.26-9.48c15.122-0.86461,29.808-4.2767,43-9z"/>
+  </g>
+  <path stroke-linejoin="miter" d="m336.06,666.96,51-77,0,95-9,0,0-9c-15.122-0.86461-28.808-4.2767-42-9z" stroke="#000" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="#078930"/>
+  <path stroke-linejoin="miter" d="m335.46,820.76,51-77,0,95-9,0,0-9c-15.122-0.86461-28.808-4.2767-42-9z" stroke="#000" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="#078930"/>
+  <g transform="translate(195.76539,3.826643)">
+   <path stroke-linejoin="miter" d="m90,318,51-77,0,95-9,0,0-9c-15.122-0.86461-28.808-4.2767-42-9z" transform="translate(0,576.36217)" stroke="#000" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="#078930"/>
+   <path fill="#000" d="M186.35,886.39,141,814.36l0.0456,99.497,8.2122-0.0188-0.26-9.48c12.362-0.70683,24.433-3.1162,35.635-6.5527,0,0,1.885-10.908,1.7136-11.423z"/>
+  </g>
+  <g transform="translate(93.648062,158.92521)">
+   <path stroke-linejoin="miter" d="M94.83,310.71,141,241v66.928c-1.2184,2.4369-47.409,4.601-46.17,2.7798z" transform="translate(0,576.36217)" stroke="#000" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="#078930"/>
+   <path fill="#000" d="M179.07,874.83,141,814.36l0.033,71.991s38.248-11.601,38.041-11.52z"/>
+  </g>
+  <g transform="translate(-5.4644414,158.57898)">
+   <path stroke-linejoin="miter" d="M108.37,290.27,141,241v62.635z" transform="translate(0,576.36217)" stroke="#000" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="#078930"/>
+   <path fill="#000" d="M186.47,886.58,141,814.36l0.0311,64.861c0.15664,0.1221,45.441,7.3592,45.441,7.3592z"/>
+  </g>
+  <path d="m6,586.36,380,0,0,260c0,130-85,200-190,200s-190-70-190-200z" stroke="#000" stroke-dasharray="none" stroke-miterlimit="4" stroke-width="6" fill="none"/>
+ </g>
+</svg>

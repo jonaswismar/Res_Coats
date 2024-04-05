@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="584px" height="725px" viewBox="0 0 584 725" enable-background="new 0 0 584 725" xml:space="preserve">
+<g id="AUT_Pölfing-Brunn_COA">
+	<path id="Feld-oben-argent" fill="#E7E7E7" stroke="#000000" stroke-width="6" d="M581,3c0,0,0,209.749,0,338H3C3,212.749,3,3,3,3H581z"/>
+	<g id="Flüsse-azure">
+		<path fill="#0F47AF" stroke="#000000" stroke-width="4" d="M178,183c0-44-27-61-27-105c0-32.028,14.298-49.757,22.083-74h-87
+			C78.298,28.243,64,45.972,64,78c0,44,27,61,27,105c0,43.5-27,61-27,105c0,22.721,7.199,38.243,14.163,54h87
+			C158.199,326.243,151,310.721,151,288C151,244,178,226.5,178,183z"/>
+		<path fill="#0F47AF" stroke="#000000" stroke-width="4" d="M350,183c0-44-27-61-27-105c0-32.028,14.298-49.757,22.078-74h-86.995
+			C250.298,28.243,236,45.972,236,78c0,44,27,61,27,105c0,43.5-27,61-27,105c0,22.721,7.199,38.243,14.163,54h86.995
+			C330.197,326.243,323,310.721,323,288C323,244,350,226.5,350,183z"/>
+		<path fill="#0F47AF" stroke="#000000" stroke-width="4" d="M522,183c0-44-27-61-27-105c0-32.028,14.298-49.757,22.082-74h-87
+			C422.298,28.243,408,45.972,408,78c0,44,27,61,27,105c0,43.5-27,61-27,105c0,22.721,7.194,38.243,14.157,54h87
+			C502.196,326.243,495,310.721,495,288C495,244,522,226.5,522,183z"/>
+	</g>
+	<path id="Feld-unten-sable" stroke="#000000" stroke-width="6" d="M3,427c0,151,289,293.81,289,293.81S581,578,581,427
+		c0-15.805,0-45,0-86H3C3,382,3,411.195,3,427z"/>
+	<g id="Hämmer-argent">
+		<rect x="182.088" y="392.801" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 38.3394 931.4784)" fill="#E7E7E7" stroke="#000000" stroke-width="4" width="59.995" height="129.996"/>
+		<rect x="204.02" y="534.738" transform="matrix(0.7071 0.7071 -0.7071 0.7071 477.7693 -53.9559)" fill="#E7E7E7" stroke="#000000" stroke-width="4" width="199.99" height="30"/>
+		<rect x="264.994" y="449.734" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 89.2761 1136.4381)" fill="#E7E7E7" stroke="#000000" stroke-width="4" width="30" height="199.991"/>
+		<polygon fill="#E7E7E7" stroke="#000000" stroke-width="4" points="347.947,391.428 305.522,433.854 415.125,543.456 415.938,542.642 415.938,459.418"/>
+	</g>
+</g>
+</svg>

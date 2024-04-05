@@ -1,0 +1,24 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="445" width="381" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(0,-607.36217)">
+  <g transform="translate(-9.376705,0)">
+   <path d="m15,612.36,370,0s0.19817,169.59,0,255c0,80-79.5,179.5-184.5,179.5s-185-100-185-180c-0.995-84.86-0.5-254.54-0.5-254.54z" fill="#fcdd09"/>
+   <path d="m15,612.36,186,0c0,140-63.415,239.5-178.41,294.5-12.59-24.5-7.59-294.5-7.59-294.5z" fill="#da121a"/>
+   <path stroke-linejoin="round" d="m156.41,708c0,23.18-18.441,41.97-41.188,41.97-22.748,0-41.188-18.791-41.188-41.97,0-23.18,18.441-41.97,41.188-41.97,22.748,0,41.188,18.791,41.188,41.97z" transform="matrix(1.0598038,0,0,1.0400559,-13.545032,-36.564277)" stroke-dashoffset="0" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="2.85746002" fill="#fcdd09"/>
+   <path d="m385,612.36-184,0c0,140,61.788,240,176.79,295,12.212-30,7.212-295,7.212-295z" fill="#da121a"/>
+   <path stroke-linejoin="round" d="m156.41,708c0,23.18-18.441,41.97-41.188,41.97-22.748,0-41.188-18.791-41.188-41.97,0-23.18,18.441-41.97,41.188-41.97,22.748,0,41.188,18.791,41.188,41.97z" transform="matrix(-1.0598038,0,0,1.0400559,416.52458,-36.766008)" stroke-dashoffset="0" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="2.85746002" fill="#fcdd09"/>
+   <path stroke-linejoin="round" d="m156.41,708c0,23.18-18.441,41.97-41.188,41.97-22.748,0-41.188-18.791-41.188-41.97,0-23.18,18.441-41.97,41.188-41.97,22.748,0,41.188,18.791,41.188,41.97z" transform="matrix(-1.0598038,0,0,1.0400559,326.16093,198.50438)" stroke-dashoffset="0" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="2.85746002" fill="#da121a"/>
+   <path stroke-linejoin="miter" d="m15,612.36,370,0v255c0,80-79.5,179.5-184.5,179.5s-185-100-185-180c-0.995-84.86-0.5-254.54-0.5-254.54z" stroke="#000" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="5" fill="none"/>
+   <path stroke-linejoin="round" d="m208.2,925.67c7.8848,4.171,9.5395,15.641,0.52136,18.769m1.0428-30.239c17.691,4.8458,23.693,37.051-0.52138,41.188m0.00001-52.137c35.14,6.9907,36.244,57.312-0.00001,63.607m90.197-276.33c7.8848,4.171,9.5395,15.641,0.52136,18.769m1.0428-30.239c17.691,4.8458,23.693,37.051-0.52138,41.188m0.00001-52.137c35.14,6.9907,36.244,57.312-0.00001,63.607m-186.82-41.19c7.8848,4.171,9.5395,15.641,0.52136,18.769m1.0428-30.239c17.691,4.8458,23.693,37.051-0.52138,41.188m0.00001-52.137c35.14,6.9907,36.244,57.312-0.00001,63.607m85.15-117.97c0,140-62.915,240-177.91,295m178.87-295.13c0,140,62.915,240,177.91,295" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="3" fill="none"/>
+  </g>
+ </g>
+</svg>
